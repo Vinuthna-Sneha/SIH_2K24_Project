@@ -1,0 +1,4508 @@
+[
+    {
+        "busId": "BUS00000",
+        "driverId": "DRIVER00000",
+        "status": "inactive",
+        "routeId": "ROUTE00000"
+    },
+    {
+        "busId": "BUS00001",
+        "driverId": "DRIVER00001",
+        "status": "active",
+        "routeId": "ROUTE00000"
+    },
+    {
+        "busId": "BUS00002",
+        "driverId": "DRIVER00002",
+        "status": "inactive",
+        "routeId": "ROUTE00000"
+    },
+    {
+        "busId": "BUS00003",
+        "driverId": "DRIVER00003",
+        "status": "active",
+        "routeId": "ROUTE00000"
+    },
+    {
+        "busId": "BUS00004",
+        "driverId": "DRIVER00004",
+        "status": "active",
+        "routeId": "ROUTE00000"
+    },
+    {
+        "busId": "BUS00005",
+        "driverId": "DRIVER00005",
+        "status": "active",
+        "routeId": "ROUTE00000"
+    },
+    {
+        "busId": "BUS00006",
+        "driverId": "DRIVER00006",
+        "status": "inactive",
+        "routeId": "ROUTE00001"
+    },
+    {
+        "busId": "BUS00007",
+        "driverId": "DRIVER00007",
+        "status": "inactive",
+        "routeId": "ROUTE00001"
+    },
+    {
+        "busId": "BUS00008",
+        "driverId": "DRIVER00008",
+        "status": "active",
+        "routeId": "ROUTE00001"
+    },
+    {
+        "busId": "BUS00009",
+        "driverId": "DRIVER00009",
+        "status": "inactive",
+        "routeId": "ROUTE00002"
+    },
+    {
+        "busId": "BUS00010",
+        "driverId": "DRIVER00010",
+        "status": "active",
+        "routeId": "ROUTE00002"
+    },
+    {
+        "busId": "BUS00011",
+        "driverId": "DRIVER00011",
+        "status": "active",
+        "routeId": "ROUTE00002"
+    },
+    {
+        "busId": "BUS00012",
+        "driverId": "DRIVER00012",
+        "status": "active",
+        "routeId": "ROUTE00002"
+    },
+    {
+        "busId": "BUS00013",
+        "driverId": "DRIVER00013",
+        "status": "active",
+        "routeId": "ROUTE00002"
+    },
+    {
+        "busId": "BUS00014",
+        "driverId": "DRIVER00014",
+        "status": "inactive",
+        "routeId": "ROUTE00003"
+    },
+    {
+        "busId": "BUS00015",
+        "driverId": "DRIVER00015",
+        "status": "active",
+        "routeId": "ROUTE00003"
+    },
+    {
+        "busId": "BUS00016",
+        "driverId": "DRIVER00016",
+        "status": "inactive",
+        "routeId": "ROUTE00003"
+    },
+    {
+        "busId": "BUS00017",
+        "driverId": "DRIVER00017",
+        "status": "active",
+        "routeId": "ROUTE00003"
+    },
+    {
+        "busId": "BUS00018",
+        "driverId": "DRIVER00018",
+        "status": "active",
+        "routeId": "ROUTE00003"
+    },
+    {
+        "busId": "BUS00019",
+        "driverId": "DRIVER00019",
+        "status": "inactive",
+        "routeId": "ROUTE00004"
+    },
+    {
+        "busId": "BUS00020",
+        "driverId": "DRIVER00020",
+        "status": "inactive",
+        "routeId": "ROUTE00004"
+    },
+    {
+        "busId": "BUS00021",
+        "driverId": "DRIVER00021",
+        "status": "inactive",
+        "routeId": "ROUTE00004"
+    },
+    {
+        "busId": "BUS00022",
+        "driverId": "DRIVER00022",
+        "status": "inactive",
+        "routeId": "ROUTE00004"
+    },
+    {
+        "busId": "BUS00023",
+        "driverId": "DRIVER00023",
+        "status": "inactive",
+        "routeId": "ROUTE00005"
+    },
+    {
+        "busId": "BUS00024",
+        "driverId": "DRIVER00024",
+        "status": "active",
+        "routeId": "ROUTE00005"
+    },
+    {
+        "busId": "BUS00025",
+        "driverId": "DRIVER00025",
+        "status": "active",
+        "routeId": "ROUTE00005"
+    },
+    {
+        "busId": "BUS00026",
+        "driverId": "DRIVER00026",
+        "status": "inactive",
+        "routeId": "ROUTE00005"
+    },
+    {
+        "busId": "BUS00027",
+        "driverId": "DRIVER00027",
+        "status": "active",
+        "routeId": "ROUTE00006"
+    },
+    {
+        "busId": "BUS00028",
+        "driverId": "DRIVER00028",
+        "status": "active",
+        "routeId": "ROUTE00006"
+    },
+    {
+        "busId": "BUS00029",
+        "driverId": "DRIVER00029",
+        "status": "inactive",
+        "routeId": "ROUTE00006"
+    },
+    {
+        "busId": "BUS00030",
+        "driverId": "DRIVER00030",
+        "status": "active",
+        "routeId": "ROUTE00006"
+    },
+    {
+        "busId": "BUS00031",
+        "driverId": "DRIVER00031",
+        "status": "active",
+        "routeId": "ROUTE00006"
+    },
+    {
+        "busId": "BUS00032",
+        "driverId": "DRIVER00032",
+        "status": "inactive",
+        "routeId": "ROUTE00007"
+    },
+    {
+        "busId": "BUS00033",
+        "driverId": "DRIVER00033",
+        "status": "inactive",
+        "routeId": "ROUTE00007"
+    },
+    {
+        "busId": "BUS00034",
+        "driverId": "DRIVER00034",
+        "status": "active",
+        "routeId": "ROUTE00007"
+    },
+    {
+        "busId": "BUS00035",
+        "driverId": "DRIVER00035",
+        "status": "inactive",
+        "routeId": "ROUTE00008"
+    },
+    {
+        "busId": "BUS00036",
+        "driverId": "DRIVER00036",
+        "status": "active",
+        "routeId": "ROUTE00008"
+    },
+    {
+        "busId": "BUS00037",
+        "driverId": "DRIVER00037",
+        "status": "active",
+        "routeId": "ROUTE00008"
+    },
+    {
+        "busId": "BUS00038",
+        "driverId": "DRIVER00038",
+        "status": "active",
+        "routeId": "ROUTE00008"
+    },
+    {
+        "busId": "BUS00039",
+        "driverId": "DRIVER00039",
+        "status": "active",
+        "routeId": "ROUTE00009"
+    },
+    {
+        "busId": "BUS00040",
+        "driverId": "DRIVER00040",
+        "status": "active",
+        "routeId": "ROUTE00009"
+    },
+    {
+        "busId": "BUS00041",
+        "driverId": "DRIVER00041",
+        "status": "active",
+        "routeId": "ROUTE00009"
+    },
+    {
+        "busId": "BUS00042",
+        "driverId": "DRIVER00042",
+        "status": "active",
+        "routeId": "ROUTE00009"
+    },
+    {
+        "busId": "BUS00043",
+        "driverId": "DRIVER00043",
+        "status": "inactive",
+        "routeId": "ROUTE00009"
+    },
+    {
+        "busId": "BUS00044",
+        "driverId": "DRIVER00044",
+        "status": "active",
+        "routeId": "ROUTE00009"
+    },
+    {
+        "busId": "BUS00045",
+        "driverId": "DRIVER00045",
+        "status": "active",
+        "routeId": "ROUTE00010"
+    },
+    {
+        "busId": "BUS00046",
+        "driverId": "DRIVER00046",
+        "status": "inactive",
+        "routeId": "ROUTE00010"
+    },
+    {
+        "busId": "BUS00047",
+        "driverId": "DRIVER00047",
+        "status": "active",
+        "routeId": "ROUTE00010"
+    },
+    {
+        "busId": "BUS00048",
+        "driverId": "DRIVER00048",
+        "status": "active",
+        "routeId": "ROUTE00010"
+    },
+    {
+        "busId": "BUS00049",
+        "driverId": "DRIVER00049",
+        "status": "inactive",
+        "routeId": "ROUTE00010"
+    },
+    {
+        "busId": "BUS00050",
+        "driverId": "DRIVER00050",
+        "status": "inactive",
+        "routeId": "ROUTE00011"
+    },
+    {
+        "busId": "BUS00051",
+        "driverId": "DRIVER00051",
+        "status": "active",
+        "routeId": "ROUTE00011"
+    },
+    {
+        "busId": "BUS00052",
+        "driverId": "DRIVER00052",
+        "status": "inactive",
+        "routeId": "ROUTE00011"
+    },
+    {
+        "busId": "BUS00053",
+        "driverId": "DRIVER00053",
+        "status": "inactive",
+        "routeId": "ROUTE00012"
+    },
+    {
+        "busId": "BUS00054",
+        "driverId": "DRIVER00054",
+        "status": "active",
+        "routeId": "ROUTE00012"
+    },
+    {
+        "busId": "BUS00055",
+        "driverId": "DRIVER00055",
+        "status": "active",
+        "routeId": "ROUTE00012"
+    },
+    {
+        "busId": "BUS00056",
+        "driverId": "DRIVER00056",
+        "status": "inactive",
+        "routeId": "ROUTE00012"
+    },
+    {
+        "busId": "BUS00057",
+        "driverId": "DRIVER00057",
+        "status": "active",
+        "routeId": "ROUTE00012"
+    },
+    {
+        "busId": "BUS00058",
+        "driverId": "DRIVER00058",
+        "status": "inactive",
+        "routeId": "ROUTE00012"
+    },
+    {
+        "busId": "BUS00059",
+        "driverId": "DRIVER00059",
+        "status": "inactive",
+        "routeId": "ROUTE00013"
+    },
+    {
+        "busId": "BUS00060",
+        "driverId": "DRIVER00060",
+        "status": "active",
+        "routeId": "ROUTE00013"
+    },
+    {
+        "busId": "BUS00061",
+        "driverId": "DRIVER00061",
+        "status": "active",
+        "routeId": "ROUTE00013"
+    },
+    {
+        "busId": "BUS00062",
+        "driverId": "DRIVER00062",
+        "status": "inactive",
+        "routeId": "ROUTE00013"
+    },
+    {
+        "busId": "BUS00063",
+        "driverId": "DRIVER00063",
+        "status": "active",
+        "routeId": "ROUTE00014"
+    },
+    {
+        "busId": "BUS00064",
+        "driverId": "DRIVER00064",
+        "status": "active",
+        "routeId": "ROUTE00014"
+    },
+    {
+        "busId": "BUS00065",
+        "driverId": "DRIVER00065",
+        "status": "inactive",
+        "routeId": "ROUTE00014"
+    },
+    {
+        "busId": "BUS00066",
+        "driverId": "DRIVER00066",
+        "status": "active",
+        "routeId": "ROUTE00014"
+    },
+    {
+        "busId": "BUS00067",
+        "driverId": "DRIVER00067",
+        "status": "active",
+        "routeId": "ROUTE00014"
+    },
+    {
+        "busId": "BUS00068",
+        "driverId": "DRIVER00068",
+        "status": "active",
+        "routeId": "ROUTE00015"
+    },
+    {
+        "busId": "BUS00069",
+        "driverId": "DRIVER00069",
+        "status": "inactive",
+        "routeId": "ROUTE00015"
+    },
+    {
+        "busId": "BUS00070",
+        "driverId": "DRIVER00070",
+        "status": "active",
+        "routeId": "ROUTE00015"
+    },
+    {
+        "busId": "BUS00071",
+        "driverId": "DRIVER00071",
+        "status": "inactive",
+        "routeId": "ROUTE00015"
+    },
+    {
+        "busId": "BUS00072",
+        "driverId": "DRIVER00072",
+        "status": "active",
+        "routeId": "ROUTE00015"
+    },
+    {
+        "busId": "BUS00073",
+        "driverId": "DRIVER00073",
+        "status": "inactive",
+        "routeId": "ROUTE00016"
+    },
+    {
+        "busId": "BUS00074",
+        "driverId": "DRIVER00074",
+        "status": "inactive",
+        "routeId": "ROUTE00016"
+    },
+    {
+        "busId": "BUS00075",
+        "driverId": "DRIVER00075",
+        "status": "inactive",
+        "routeId": "ROUTE00016"
+    },
+    {
+        "busId": "BUS00076",
+        "driverId": "DRIVER00076",
+        "status": "active",
+        "routeId": "ROUTE00016"
+    },
+    {
+        "busId": "BUS00077",
+        "driverId": "DRIVER00077",
+        "status": "active",
+        "routeId": "ROUTE00016"
+    },
+    {
+        "busId": "BUS00078",
+        "driverId": "DRIVER00078",
+        "status": "active",
+        "routeId": "ROUTE00016"
+    },
+    {
+        "busId": "BUS00079",
+        "driverId": "DRIVER00079",
+        "status": "inactive",
+        "routeId": "ROUTE00017"
+    },
+    {
+        "busId": "BUS00080",
+        "driverId": "DRIVER00080",
+        "status": "active",
+        "routeId": "ROUTE00017"
+    },
+    {
+        "busId": "BUS00081",
+        "driverId": "DRIVER00081",
+        "status": "active",
+        "routeId": "ROUTE00017"
+    },
+    {
+        "busId": "BUS00082",
+        "driverId": "DRIVER00082",
+        "status": "inactive",
+        "routeId": "ROUTE00017"
+    },
+    {
+        "busId": "BUS00083",
+        "driverId": "DRIVER00083",
+        "status": "inactive",
+        "routeId": "ROUTE00017"
+    },
+    {
+        "busId": "BUS00084",
+        "driverId": "DRIVER00084",
+        "status": "inactive",
+        "routeId": "ROUTE00017"
+    },
+    {
+        "busId": "BUS00085",
+        "driverId": "DRIVER00085",
+        "status": "active",
+        "routeId": "ROUTE00018"
+    },
+    {
+        "busId": "BUS00086",
+        "driverId": "DRIVER00086",
+        "status": "active",
+        "routeId": "ROUTE00018"
+    },
+    {
+        "busId": "BUS00087",
+        "driverId": "DRIVER00087",
+        "status": "inactive",
+        "routeId": "ROUTE00018"
+    },
+    {
+        "busId": "BUS00088",
+        "driverId": "DRIVER00088",
+        "status": "inactive",
+        "routeId": "ROUTE00018"
+    },
+    {
+        "busId": "BUS00089",
+        "driverId": "DRIVER00089",
+        "status": "active",
+        "routeId": "ROUTE00018"
+    },
+    {
+        "busId": "BUS00090",
+        "driverId": "DRIVER00090",
+        "status": "active",
+        "routeId": "ROUTE00018"
+    },
+    {
+        "busId": "BUS00091",
+        "driverId": "DRIVER00091",
+        "status": "active",
+        "routeId": "ROUTE00019"
+    },
+    {
+        "busId": "BUS00092",
+        "driverId": "DRIVER00092",
+        "status": "inactive",
+        "routeId": "ROUTE00019"
+    },
+    {
+        "busId": "BUS00093",
+        "driverId": "DRIVER00093",
+        "status": "active",
+        "routeId": "ROUTE00019"
+    },
+    {
+        "busId": "BUS00094",
+        "driverId": "DRIVER00094",
+        "status": "active",
+        "routeId": "ROUTE00019"
+    },
+    {
+        "busId": "BUS00095",
+        "driverId": "DRIVER00095",
+        "status": "inactive",
+        "routeId": "ROUTE00019"
+    },
+    {
+        "busId": "BUS00096",
+        "driverId": "DRIVER00096",
+        "status": "active",
+        "routeId": "ROUTE00020"
+    },
+    {
+        "busId": "BUS00097",
+        "driverId": "DRIVER00097",
+        "status": "active",
+        "routeId": "ROUTE00020"
+    },
+    {
+        "busId": "BUS00098",
+        "driverId": "DRIVER00098",
+        "status": "inactive",
+        "routeId": "ROUTE00020"
+    },
+    {
+        "busId": "BUS00099",
+        "driverId": "DRIVER00099",
+        "status": "inactive",
+        "routeId": "ROUTE00020"
+    },
+    {
+        "busId": "BUS00100",
+        "driverId": "DRIVER00100",
+        "status": "inactive",
+        "routeId": "ROUTE00020"
+    },
+    {
+        "busId": "BUS00101",
+        "driverId": "DRIVER00101",
+        "status": "active",
+        "routeId": "ROUTE00020"
+    },
+    {
+        "busId": "BUS00102",
+        "driverId": "DRIVER00102",
+        "status": "inactive",
+        "routeId": "ROUTE00021"
+    },
+    {
+        "busId": "BUS00103",
+        "driverId": "DRIVER00103",
+        "status": "active",
+        "routeId": "ROUTE00021"
+    },
+    {
+        "busId": "BUS00104",
+        "driverId": "DRIVER00104",
+        "status": "active",
+        "routeId": "ROUTE00021"
+    },
+    {
+        "busId": "BUS00105",
+        "driverId": "DRIVER00105",
+        "status": "active",
+        "routeId": "ROUTE00021"
+    },
+    {
+        "busId": "BUS00106",
+        "driverId": "DRIVER00106",
+        "status": "active",
+        "routeId": "ROUTE00022"
+    },
+    {
+        "busId": "BUS00107",
+        "driverId": "DRIVER00107",
+        "status": "inactive",
+        "routeId": "ROUTE00022"
+    },
+    {
+        "busId": "BUS00108",
+        "driverId": "DRIVER00108",
+        "status": "inactive",
+        "routeId": "ROUTE00022"
+    },
+    {
+        "busId": "BUS00109",
+        "driverId": "DRIVER00109",
+        "status": "inactive",
+        "routeId": "ROUTE00022"
+    },
+    {
+        "busId": "BUS00110",
+        "driverId": "DRIVER00110",
+        "status": "inactive",
+        "routeId": "ROUTE00023"
+    },
+    {
+        "busId": "BUS00111",
+        "driverId": "DRIVER00111",
+        "status": "active",
+        "routeId": "ROUTE00023"
+    },
+    {
+        "busId": "BUS00112",
+        "driverId": "DRIVER00112",
+        "status": "active",
+        "routeId": "ROUTE00023"
+    },
+    {
+        "busId": "BUS00113",
+        "driverId": "DRIVER00113",
+        "status": "active",
+        "routeId": "ROUTE00023"
+    },
+    {
+        "busId": "BUS00114",
+        "driverId": "DRIVER00114",
+        "status": "inactive",
+        "routeId": "ROUTE00023"
+    },
+    {
+        "busId": "BUS00115",
+        "driverId": "DRIVER00115",
+        "status": "active",
+        "routeId": "ROUTE00024"
+    },
+    {
+        "busId": "BUS00116",
+        "driverId": "DRIVER00116",
+        "status": "active",
+        "routeId": "ROUTE00024"
+    },
+    {
+        "busId": "BUS00117",
+        "driverId": "DRIVER00117",
+        "status": "inactive",
+        "routeId": "ROUTE00024"
+    },
+    {
+        "busId": "BUS00118",
+        "driverId": "DRIVER00118",
+        "status": "inactive",
+        "routeId": "ROUTE00024"
+    },
+    {
+        "busId": "BUS00119",
+        "driverId": "DRIVER00119",
+        "status": "inactive",
+        "routeId": "ROUTE00025"
+    },
+    {
+        "busId": "BUS00120",
+        "driverId": "DRIVER00120",
+        "status": "inactive",
+        "routeId": "ROUTE00025"
+    },
+    {
+        "busId": "BUS00121",
+        "driverId": "DRIVER00121",
+        "status": "inactive",
+        "routeId": "ROUTE00025"
+    },
+    {
+        "busId": "BUS00122",
+        "driverId": "DRIVER00122",
+        "status": "active",
+        "routeId": "ROUTE00025"
+    },
+    {
+        "busId": "BUS00123",
+        "driverId": "DRIVER00123",
+        "status": "inactive",
+        "routeId": "ROUTE00025"
+    },
+    {
+        "busId": "BUS00124",
+        "driverId": "DRIVER00124",
+        "status": "active",
+        "routeId": "ROUTE00026"
+    },
+    {
+        "busId": "BUS00125",
+        "driverId": "DRIVER00125",
+        "status": "active",
+        "routeId": "ROUTE00026"
+    },
+    {
+        "busId": "BUS00126",
+        "driverId": "DRIVER00126",
+        "status": "active",
+        "routeId": "ROUTE00026"
+    },
+    {
+        "busId": "BUS00127",
+        "driverId": "DRIVER00127",
+        "status": "active",
+        "routeId": "ROUTE00026"
+    },
+    {
+        "busId": "BUS00128",
+        "driverId": "DRIVER00128",
+        "status": "active",
+        "routeId": "ROUTE00027"
+    },
+    {
+        "busId": "BUS00129",
+        "driverId": "DRIVER00129",
+        "status": "inactive",
+        "routeId": "ROUTE00027"
+    },
+    {
+        "busId": "BUS00130",
+        "driverId": "DRIVER00130",
+        "status": "inactive",
+        "routeId": "ROUTE00027"
+    },
+    {
+        "busId": "BUS00131",
+        "driverId": "DRIVER00131",
+        "status": "inactive",
+        "routeId": "ROUTE00028"
+    },
+    {
+        "busId": "BUS00132",
+        "driverId": "DRIVER00132",
+        "status": "active",
+        "routeId": "ROUTE00028"
+    },
+    {
+        "busId": "BUS00133",
+        "driverId": "DRIVER00133",
+        "status": "active",
+        "routeId": "ROUTE00028"
+    },
+    {
+        "busId": "BUS00134",
+        "driverId": "DRIVER00134",
+        "status": "inactive",
+        "routeId": "ROUTE00028"
+    },
+    {
+        "busId": "BUS00135",
+        "driverId": "DRIVER00135",
+        "status": "inactive",
+        "routeId": "ROUTE00028"
+    },
+    {
+        "busId": "BUS00136",
+        "driverId": "DRIVER00136",
+        "status": "active",
+        "routeId": "ROUTE00029"
+    },
+    {
+        "busId": "BUS00137",
+        "driverId": "DRIVER00137",
+        "status": "active",
+        "routeId": "ROUTE00029"
+    },
+    {
+        "busId": "BUS00138",
+        "driverId": "DRIVER00138",
+        "status": "active",
+        "routeId": "ROUTE00029"
+    },
+    {
+        "busId": "BUS00139",
+        "driverId": "DRIVER00139",
+        "status": "active",
+        "routeId": "ROUTE00030"
+    },
+    {
+        "busId": "BUS00140",
+        "driverId": "DRIVER00140",
+        "status": "inactive",
+        "routeId": "ROUTE00030"
+    },
+    {
+        "busId": "BUS00141",
+        "driverId": "DRIVER00141",
+        "status": "inactive",
+        "routeId": "ROUTE00030"
+    },
+    {
+        "busId": "BUS00142",
+        "driverId": "DRIVER00142",
+        "status": "inactive",
+        "routeId": "ROUTE00030"
+    },
+    {
+        "busId": "BUS00143",
+        "driverId": "DRIVER00143",
+        "status": "active",
+        "routeId": "ROUTE00031"
+    },
+    {
+        "busId": "BUS00144",
+        "driverId": "DRIVER00144",
+        "status": "inactive",
+        "routeId": "ROUTE00031"
+    },
+    {
+        "busId": "BUS00145",
+        "driverId": "DRIVER00145",
+        "status": "inactive",
+        "routeId": "ROUTE00031"
+    },
+    {
+        "busId": "BUS00146",
+        "driverId": "DRIVER00146",
+        "status": "inactive",
+        "routeId": "ROUTE00032"
+    },
+    {
+        "busId": "BUS00147",
+        "driverId": "DRIVER00147",
+        "status": "active",
+        "routeId": "ROUTE00032"
+    },
+    {
+        "busId": "BUS00148",
+        "driverId": "DRIVER00148",
+        "status": "inactive",
+        "routeId": "ROUTE00032"
+    },
+    {
+        "busId": "BUS00149",
+        "driverId": "DRIVER00149",
+        "status": "active",
+        "routeId": "ROUTE00033"
+    },
+    {
+        "busId": "BUS00150",
+        "driverId": "DRIVER00150",
+        "status": "active",
+        "routeId": "ROUTE00033"
+    },
+    {
+        "busId": "BUS00151",
+        "driverId": "DRIVER00151",
+        "status": "active",
+        "routeId": "ROUTE00033"
+    },
+    {
+        "busId": "BUS00152",
+        "driverId": "DRIVER00152",
+        "status": "active",
+        "routeId": "ROUTE00033"
+    },
+    {
+        "busId": "BUS00153",
+        "driverId": "DRIVER00153",
+        "status": "inactive",
+        "routeId": "ROUTE00034"
+    },
+    {
+        "busId": "BUS00154",
+        "driverId": "DRIVER00154",
+        "status": "active",
+        "routeId": "ROUTE00034"
+    },
+    {
+        "busId": "BUS00155",
+        "driverId": "DRIVER00155",
+        "status": "active",
+        "routeId": "ROUTE00034"
+    },
+    {
+        "busId": "BUS00156",
+        "driverId": "DRIVER00156",
+        "status": "active",
+        "routeId": "ROUTE00034"
+    },
+    {
+        "busId": "BUS00157",
+        "driverId": "DRIVER00157",
+        "status": "inactive",
+        "routeId": "ROUTE00035"
+    },
+    {
+        "busId": "BUS00158",
+        "driverId": "DRIVER00158",
+        "status": "inactive",
+        "routeId": "ROUTE00035"
+    },
+    {
+        "busId": "BUS00159",
+        "driverId": "DRIVER00159",
+        "status": "inactive",
+        "routeId": "ROUTE00035"
+    },
+    {
+        "busId": "BUS00160",
+        "driverId": "DRIVER00160",
+        "status": "active",
+        "routeId": "ROUTE00035"
+    },
+    {
+        "busId": "BUS00161",
+        "driverId": "DRIVER00161",
+        "status": "inactive",
+        "routeId": "ROUTE00035"
+    },
+    {
+        "busId": "BUS00162",
+        "driverId": "DRIVER00162",
+        "status": "active",
+        "routeId": "ROUTE00036"
+    },
+    {
+        "busId": "BUS00163",
+        "driverId": "DRIVER00163",
+        "status": "inactive",
+        "routeId": "ROUTE00036"
+    },
+    {
+        "busId": "BUS00164",
+        "driverId": "DRIVER00164",
+        "status": "inactive",
+        "routeId": "ROUTE00036"
+    },
+    {
+        "busId": "BUS00165",
+        "driverId": "DRIVER00165",
+        "status": "inactive",
+        "routeId": "ROUTE00036"
+    },
+    {
+        "busId": "BUS00166",
+        "driverId": "DRIVER00166",
+        "status": "inactive",
+        "routeId": "ROUTE00036"
+    },
+    {
+        "busId": "BUS00167",
+        "driverId": "DRIVER00167",
+        "status": "inactive",
+        "routeId": "ROUTE00037"
+    },
+    {
+        "busId": "BUS00168",
+        "driverId": "DRIVER00168",
+        "status": "active",
+        "routeId": "ROUTE00037"
+    },
+    {
+        "busId": "BUS00169",
+        "driverId": "DRIVER00169",
+        "status": "inactive",
+        "routeId": "ROUTE00037"
+    },
+    {
+        "busId": "BUS00170",
+        "driverId": "DRIVER00170",
+        "status": "active",
+        "routeId": "ROUTE00037"
+    },
+    {
+        "busId": "BUS00171",
+        "driverId": "DRIVER00171",
+        "status": "inactive",
+        "routeId": "ROUTE00038"
+    },
+    {
+        "busId": "BUS00172",
+        "driverId": "DRIVER00172",
+        "status": "inactive",
+        "routeId": "ROUTE00038"
+    },
+    {
+        "busId": "BUS00173",
+        "driverId": "DRIVER00173",
+        "status": "inactive",
+        "routeId": "ROUTE00038"
+    },
+    {
+        "busId": "BUS00174",
+        "driverId": "DRIVER00174",
+        "status": "active",
+        "routeId": "ROUTE00038"
+    },
+    {
+        "busId": "BUS00175",
+        "driverId": "DRIVER00175",
+        "status": "inactive",
+        "routeId": "ROUTE00038"
+    },
+    {
+        "busId": "BUS00176",
+        "driverId": "DRIVER00176",
+        "status": "active",
+        "routeId": "ROUTE00038"
+    },
+    {
+        "busId": "BUS00177",
+        "driverId": "DRIVER00177",
+        "status": "inactive",
+        "routeId": "ROUTE00039"
+    },
+    {
+        "busId": "BUS00178",
+        "driverId": "DRIVER00178",
+        "status": "inactive",
+        "routeId": "ROUTE00039"
+    },
+    {
+        "busId": "BUS00179",
+        "driverId": "DRIVER00179",
+        "status": "active",
+        "routeId": "ROUTE00039"
+    },
+    {
+        "busId": "BUS00180",
+        "driverId": "DRIVER00180",
+        "status": "inactive",
+        "routeId": "ROUTE00039"
+    },
+    {
+        "busId": "BUS00181",
+        "driverId": "DRIVER00181",
+        "status": "active",
+        "routeId": "ROUTE00039"
+    },
+    {
+        "busId": "BUS00182",
+        "driverId": "DRIVER00182",
+        "status": "active",
+        "routeId": "ROUTE00039"
+    },
+    {
+        "busId": "BUS00183",
+        "driverId": "DRIVER00183",
+        "status": "inactive",
+        "routeId": "ROUTE00040"
+    },
+    {
+        "busId": "BUS00184",
+        "driverId": "DRIVER00184",
+        "status": "inactive",
+        "routeId": "ROUTE00040"
+    },
+    {
+        "busId": "BUS00185",
+        "driverId": "DRIVER00185",
+        "status": "inactive",
+        "routeId": "ROUTE00040"
+    },
+    {
+        "busId": "BUS00186",
+        "driverId": "DRIVER00186",
+        "status": "inactive",
+        "routeId": "ROUTE00040"
+    },
+    {
+        "busId": "BUS00187",
+        "driverId": "DRIVER00187",
+        "status": "active",
+        "routeId": "ROUTE00040"
+    },
+    {
+        "busId": "BUS00188",
+        "driverId": "DRIVER00188",
+        "status": "inactive",
+        "routeId": "ROUTE00041"
+    },
+    {
+        "busId": "BUS00189",
+        "driverId": "DRIVER00189",
+        "status": "active",
+        "routeId": "ROUTE00041"
+    },
+    {
+        "busId": "BUS00190",
+        "driverId": "DRIVER00190",
+        "status": "active",
+        "routeId": "ROUTE00041"
+    },
+    {
+        "busId": "BUS00191",
+        "driverId": "DRIVER00191",
+        "status": "active",
+        "routeId": "ROUTE00041"
+    },
+    {
+        "busId": "BUS00192",
+        "driverId": "DRIVER00192",
+        "status": "active",
+        "routeId": "ROUTE00042"
+    },
+    {
+        "busId": "BUS00193",
+        "driverId": "DRIVER00193",
+        "status": "active",
+        "routeId": "ROUTE00042"
+    },
+    {
+        "busId": "BUS00194",
+        "driverId": "DRIVER00194",
+        "status": "inactive",
+        "routeId": "ROUTE00042"
+    },
+    {
+        "busId": "BUS00195",
+        "driverId": "DRIVER00195",
+        "status": "active",
+        "routeId": "ROUTE00042"
+    },
+    {
+        "busId": "BUS00196",
+        "driverId": "DRIVER00196",
+        "status": "active",
+        "routeId": "ROUTE00042"
+    },
+    {
+        "busId": "BUS00197",
+        "driverId": "DRIVER00197",
+        "status": "inactive",
+        "routeId": "ROUTE00042"
+    },
+    {
+        "busId": "BUS00198",
+        "driverId": "DRIVER00198",
+        "status": "inactive",
+        "routeId": "ROUTE00043"
+    },
+    {
+        "busId": "BUS00199",
+        "driverId": "DRIVER00199",
+        "status": "active",
+        "routeId": "ROUTE00043"
+    },
+    {
+        "busId": "BUS00200",
+        "driverId": "DRIVER00200",
+        "status": "inactive",
+        "routeId": "ROUTE00043"
+    },
+    {
+        "busId": "BUS00201",
+        "driverId": "DRIVER00201",
+        "status": "active",
+        "routeId": "ROUTE00043"
+    },
+    {
+        "busId": "BUS00202",
+        "driverId": "DRIVER00202",
+        "status": "active",
+        "routeId": "ROUTE00043"
+    },
+    {
+        "busId": "BUS00203",
+        "driverId": "DRIVER00203",
+        "status": "active",
+        "routeId": "ROUTE00044"
+    },
+    {
+        "busId": "BUS00204",
+        "driverId": "DRIVER00204",
+        "status": "active",
+        "routeId": "ROUTE00044"
+    },
+    {
+        "busId": "BUS00205",
+        "driverId": "DRIVER00205",
+        "status": "active",
+        "routeId": "ROUTE00044"
+    },
+    {
+        "busId": "BUS00206",
+        "driverId": "DRIVER00206",
+        "status": "inactive",
+        "routeId": "ROUTE00044"
+    },
+    {
+        "busId": "BUS00207",
+        "driverId": "DRIVER00207",
+        "status": "inactive",
+        "routeId": "ROUTE00044"
+    },
+    {
+        "busId": "BUS00208",
+        "driverId": "DRIVER00208",
+        "status": "active",
+        "routeId": "ROUTE00045"
+    },
+    {
+        "busId": "BUS00209",
+        "driverId": "DRIVER00209",
+        "status": "inactive",
+        "routeId": "ROUTE00045"
+    },
+    {
+        "busId": "BUS00210",
+        "driverId": "DRIVER00210",
+        "status": "inactive",
+        "routeId": "ROUTE00045"
+    },
+    {
+        "busId": "BUS00211",
+        "driverId": "DRIVER00211",
+        "status": "inactive",
+        "routeId": "ROUTE00046"
+    },
+    {
+        "busId": "BUS00212",
+        "driverId": "DRIVER00212",
+        "status": "active",
+        "routeId": "ROUTE00046"
+    },
+    {
+        "busId": "BUS00213",
+        "driverId": "DRIVER00213",
+        "status": "inactive",
+        "routeId": "ROUTE00046"
+    },
+    {
+        "busId": "BUS00214",
+        "driverId": "DRIVER00214",
+        "status": "inactive",
+        "routeId": "ROUTE00046"
+    },
+    {
+        "busId": "BUS00215",
+        "driverId": "DRIVER00215",
+        "status": "active",
+        "routeId": "ROUTE00046"
+    },
+    {
+        "busId": "BUS00216",
+        "driverId": "DRIVER00216",
+        "status": "active",
+        "routeId": "ROUTE00047"
+    },
+    {
+        "busId": "BUS00217",
+        "driverId": "DRIVER00217",
+        "status": "inactive",
+        "routeId": "ROUTE00047"
+    },
+    {
+        "busId": "BUS00218",
+        "driverId": "DRIVER00218",
+        "status": "active",
+        "routeId": "ROUTE00047"
+    },
+    {
+        "busId": "BUS00219",
+        "driverId": "DRIVER00219",
+        "status": "active",
+        "routeId": "ROUTE00047"
+    },
+    {
+        "busId": "BUS00220",
+        "driverId": "DRIVER00220",
+        "status": "active",
+        "routeId": "ROUTE00047"
+    },
+    {
+        "busId": "BUS00221",
+        "driverId": "DRIVER00221",
+        "status": "active",
+        "routeId": "ROUTE00048"
+    },
+    {
+        "busId": "BUS00222",
+        "driverId": "DRIVER00222",
+        "status": "inactive",
+        "routeId": "ROUTE00048"
+    },
+    {
+        "busId": "BUS00223",
+        "driverId": "DRIVER00223",
+        "status": "active",
+        "routeId": "ROUTE00048"
+    },
+    {
+        "busId": "BUS00224",
+        "driverId": "DRIVER00224",
+        "status": "active",
+        "routeId": "ROUTE00048"
+    },
+    {
+        "busId": "BUS00225",
+        "driverId": "DRIVER00225",
+        "status": "inactive",
+        "routeId": "ROUTE00048"
+    },
+    {
+        "busId": "BUS00226",
+        "driverId": "DRIVER00226",
+        "status": "inactive",
+        "routeId": "ROUTE00048"
+    },
+    {
+        "busId": "BUS00227",
+        "driverId": "DRIVER00227",
+        "status": "inactive",
+        "routeId": "ROUTE00049"
+    },
+    {
+        "busId": "BUS00228",
+        "driverId": "DRIVER00228",
+        "status": "active",
+        "routeId": "ROUTE00049"
+    },
+    {
+        "busId": "BUS00229",
+        "driverId": "DRIVER00229",
+        "status": "active",
+        "routeId": "ROUTE00049"
+    },
+    {
+        "busId": "BUS00230",
+        "driverId": "DRIVER00230",
+        "status": "inactive",
+        "routeId": "ROUTE00049"
+    },
+    {
+        "busId": "BUS00231",
+        "driverId": "DRIVER00231",
+        "status": "active",
+        "routeId": "ROUTE00049"
+    },
+    {
+        "busId": "BUS00232",
+        "driverId": "DRIVER00232",
+        "status": "inactive",
+        "routeId": "ROUTE00050"
+    },
+    {
+        "busId": "BUS00233",
+        "driverId": "DRIVER00233",
+        "status": "active",
+        "routeId": "ROUTE00050"
+    },
+    {
+        "busId": "BUS00234",
+        "driverId": "DRIVER00234",
+        "status": "inactive",
+        "routeId": "ROUTE00050"
+    },
+    {
+        "busId": "BUS00235",
+        "driverId": "DRIVER00235",
+        "status": "inactive",
+        "routeId": "ROUTE00050"
+    },
+    {
+        "busId": "BUS00236",
+        "driverId": "DRIVER00236",
+        "status": "active",
+        "routeId": "ROUTE00051"
+    },
+    {
+        "busId": "BUS00237",
+        "driverId": "DRIVER00237",
+        "status": "inactive",
+        "routeId": "ROUTE00051"
+    },
+    {
+        "busId": "BUS00238",
+        "driverId": "DRIVER00238",
+        "status": "active",
+        "routeId": "ROUTE00051"
+    },
+    {
+        "busId": "BUS00239",
+        "driverId": "DRIVER00239",
+        "status": "inactive",
+        "routeId": "ROUTE00051"
+    },
+    {
+        "busId": "BUS00240",
+        "driverId": "DRIVER00240",
+        "status": "active",
+        "routeId": "ROUTE00051"
+    },
+    {
+        "busId": "BUS00241",
+        "driverId": "DRIVER00241",
+        "status": "inactive",
+        "routeId": "ROUTE00052"
+    },
+    {
+        "busId": "BUS00242",
+        "driverId": "DRIVER00242",
+        "status": "inactive",
+        "routeId": "ROUTE00052"
+    },
+    {
+        "busId": "BUS00243",
+        "driverId": "DRIVER00243",
+        "status": "active",
+        "routeId": "ROUTE00052"
+    },
+    {
+        "busId": "BUS00244",
+        "driverId": "DRIVER00244",
+        "status": "active",
+        "routeId": "ROUTE00053"
+    },
+    {
+        "busId": "BUS00245",
+        "driverId": "DRIVER00245",
+        "status": "inactive",
+        "routeId": "ROUTE00053"
+    },
+    {
+        "busId": "BUS00246",
+        "driverId": "DRIVER00246",
+        "status": "active",
+        "routeId": "ROUTE00053"
+    },
+    {
+        "busId": "BUS00247",
+        "driverId": "DRIVER00247",
+        "status": "active",
+        "routeId": "ROUTE00053"
+    },
+    {
+        "busId": "BUS00248",
+        "driverId": "DRIVER00248",
+        "status": "active",
+        "routeId": "ROUTE00053"
+    },
+    {
+        "busId": "BUS00249",
+        "driverId": "DRIVER00249",
+        "status": "inactive",
+        "routeId": "ROUTE00054"
+    },
+    {
+        "busId": "BUS00250",
+        "driverId": "DRIVER00250",
+        "status": "inactive",
+        "routeId": "ROUTE00054"
+    },
+    {
+        "busId": "BUS00251",
+        "driverId": "DRIVER00251",
+        "status": "active",
+        "routeId": "ROUTE00054"
+    },
+    {
+        "busId": "BUS00252",
+        "driverId": "DRIVER00252",
+        "status": "active",
+        "routeId": "ROUTE00055"
+    },
+    {
+        "busId": "BUS00253",
+        "driverId": "DRIVER00253",
+        "status": "active",
+        "routeId": "ROUTE00055"
+    },
+    {
+        "busId": "BUS00254",
+        "driverId": "DRIVER00254",
+        "status": "inactive",
+        "routeId": "ROUTE00055"
+    },
+    {
+        "busId": "BUS00255",
+        "driverId": "DRIVER00255",
+        "status": "inactive",
+        "routeId": "ROUTE00055"
+    },
+    {
+        "busId": "BUS00256",
+        "driverId": "DRIVER00256",
+        "status": "active",
+        "routeId": "ROUTE00056"
+    },
+    {
+        "busId": "BUS00257",
+        "driverId": "DRIVER00257",
+        "status": "inactive",
+        "routeId": "ROUTE00056"
+    },
+    {
+        "busId": "BUS00258",
+        "driverId": "DRIVER00258",
+        "status": "active",
+        "routeId": "ROUTE00056"
+    },
+    {
+        "busId": "BUS00259",
+        "driverId": "DRIVER00259",
+        "status": "inactive",
+        "routeId": "ROUTE00057"
+    },
+    {
+        "busId": "BUS00260",
+        "driverId": "DRIVER00260",
+        "status": "active",
+        "routeId": "ROUTE00057"
+    },
+    {
+        "busId": "BUS00261",
+        "driverId": "DRIVER00261",
+        "status": "inactive",
+        "routeId": "ROUTE00057"
+    },
+    {
+        "busId": "BUS00262",
+        "driverId": "DRIVER00262",
+        "status": "active",
+        "routeId": "ROUTE00057"
+    },
+    {
+        "busId": "BUS00263",
+        "driverId": "DRIVER00263",
+        "status": "active",
+        "routeId": "ROUTE00058"
+    },
+    {
+        "busId": "BUS00264",
+        "driverId": "DRIVER00264",
+        "status": "active",
+        "routeId": "ROUTE00058"
+    },
+    {
+        "busId": "BUS00265",
+        "driverId": "DRIVER00265",
+        "status": "inactive",
+        "routeId": "ROUTE00058"
+    },
+    {
+        "busId": "BUS00266",
+        "driverId": "DRIVER00266",
+        "status": "active",
+        "routeId": "ROUTE00058"
+    },
+    {
+        "busId": "BUS00267",
+        "driverId": "DRIVER00267",
+        "status": "inactive",
+        "routeId": "ROUTE00058"
+    },
+    {
+        "busId": "BUS00268",
+        "driverId": "DRIVER00268",
+        "status": "active",
+        "routeId": "ROUTE00058"
+    },
+    {
+        "busId": "BUS00269",
+        "driverId": "DRIVER00269",
+        "status": "active",
+        "routeId": "ROUTE00059"
+    },
+    {
+        "busId": "BUS00270",
+        "driverId": "DRIVER00270",
+        "status": "active",
+        "routeId": "ROUTE00059"
+    },
+    {
+        "busId": "BUS00271",
+        "driverId": "DRIVER00271",
+        "status": "active",
+        "routeId": "ROUTE00059"
+    },
+    {
+        "busId": "BUS00272",
+        "driverId": "DRIVER00272",
+        "status": "inactive",
+        "routeId": "ROUTE00059"
+    },
+    {
+        "busId": "BUS00273",
+        "driverId": "DRIVER00273",
+        "status": "active",
+        "routeId": "ROUTE00060"
+    },
+    {
+        "busId": "BUS00274",
+        "driverId": "DRIVER00274",
+        "status": "active",
+        "routeId": "ROUTE00060"
+    },
+    {
+        "busId": "BUS00275",
+        "driverId": "DRIVER00275",
+        "status": "inactive",
+        "routeId": "ROUTE00060"
+    },
+    {
+        "busId": "BUS00276",
+        "driverId": "DRIVER00276",
+        "status": "active",
+        "routeId": "ROUTE00060"
+    },
+    {
+        "busId": "BUS00277",
+        "driverId": "DRIVER00277",
+        "status": "inactive",
+        "routeId": "ROUTE00061"
+    },
+    {
+        "busId": "BUS00278",
+        "driverId": "DRIVER00278",
+        "status": "active",
+        "routeId": "ROUTE00061"
+    },
+    {
+        "busId": "BUS00279",
+        "driverId": "DRIVER00279",
+        "status": "active",
+        "routeId": "ROUTE00061"
+    },
+    {
+        "busId": "BUS00280",
+        "driverId": "DRIVER00280",
+        "status": "active",
+        "routeId": "ROUTE00061"
+    },
+    {
+        "busId": "BUS00281",
+        "driverId": "DRIVER00281",
+        "status": "active",
+        "routeId": "ROUTE00061"
+    },
+    {
+        "busId": "BUS00282",
+        "driverId": "DRIVER00282",
+        "status": "inactive",
+        "routeId": "ROUTE00061"
+    },
+    {
+        "busId": "BUS00283",
+        "driverId": "DRIVER00283",
+        "status": "active",
+        "routeId": "ROUTE00062"
+    },
+    {
+        "busId": "BUS00284",
+        "driverId": "DRIVER00284",
+        "status": "active",
+        "routeId": "ROUTE00062"
+    },
+    {
+        "busId": "BUS00285",
+        "driverId": "DRIVER00285",
+        "status": "active",
+        "routeId": "ROUTE00062"
+    },
+    {
+        "busId": "BUS00286",
+        "driverId": "DRIVER00286",
+        "status": "active",
+        "routeId": "ROUTE00062"
+    },
+    {
+        "busId": "BUS00287",
+        "driverId": "DRIVER00287",
+        "status": "active",
+        "routeId": "ROUTE00063"
+    },
+    {
+        "busId": "BUS00288",
+        "driverId": "DRIVER00288",
+        "status": "active",
+        "routeId": "ROUTE00063"
+    },
+    {
+        "busId": "BUS00289",
+        "driverId": "DRIVER00289",
+        "status": "active",
+        "routeId": "ROUTE00063"
+    },
+    {
+        "busId": "BUS00290",
+        "driverId": "DRIVER00290",
+        "status": "active",
+        "routeId": "ROUTE00063"
+    },
+    {
+        "busId": "BUS00291",
+        "driverId": "DRIVER00291",
+        "status": "active",
+        "routeId": "ROUTE00063"
+    },
+    {
+        "busId": "BUS00292",
+        "driverId": "DRIVER00292",
+        "status": "inactive",
+        "routeId": "ROUTE00063"
+    },
+    {
+        "busId": "BUS00293",
+        "driverId": "DRIVER00293",
+        "status": "inactive",
+        "routeId": "ROUTE00064"
+    },
+    {
+        "busId": "BUS00294",
+        "driverId": "DRIVER00294",
+        "status": "active",
+        "routeId": "ROUTE00064"
+    },
+    {
+        "busId": "BUS00295",
+        "driverId": "DRIVER00295",
+        "status": "active",
+        "routeId": "ROUTE00064"
+    },
+    {
+        "busId": "BUS00296",
+        "driverId": "DRIVER00296",
+        "status": "inactive",
+        "routeId": "ROUTE00064"
+    },
+    {
+        "busId": "BUS00297",
+        "driverId": "DRIVER00297",
+        "status": "active",
+        "routeId": "ROUTE00064"
+    },
+    {
+        "busId": "BUS00298",
+        "driverId": "DRIVER00298",
+        "status": "inactive",
+        "routeId": "ROUTE00064"
+    },
+    {
+        "busId": "BUS00299",
+        "driverId": "DRIVER00299",
+        "status": "inactive",
+        "routeId": "ROUTE00065"
+    },
+    {
+        "busId": "BUS00300",
+        "driverId": "DRIVER00300",
+        "status": "active",
+        "routeId": "ROUTE00065"
+    },
+    {
+        "busId": "BUS00301",
+        "driverId": "DRIVER00301",
+        "status": "inactive",
+        "routeId": "ROUTE00065"
+    },
+    {
+        "busId": "BUS00302",
+        "driverId": "DRIVER00302",
+        "status": "inactive",
+        "routeId": "ROUTE00065"
+    },
+    {
+        "busId": "BUS00303",
+        "driverId": "DRIVER00303",
+        "status": "active",
+        "routeId": "ROUTE00066"
+    },
+    {
+        "busId": "BUS00304",
+        "driverId": "DRIVER00304",
+        "status": "inactive",
+        "routeId": "ROUTE00066"
+    },
+    {
+        "busId": "BUS00305",
+        "driverId": "DRIVER00305",
+        "status": "active",
+        "routeId": "ROUTE00066"
+    },
+    {
+        "busId": "BUS00306",
+        "driverId": "DRIVER00306",
+        "status": "active",
+        "routeId": "ROUTE00066"
+    },
+    {
+        "busId": "BUS00307",
+        "driverId": "DRIVER00307",
+        "status": "inactive",
+        "routeId": "ROUTE00066"
+    },
+    {
+        "busId": "BUS00308",
+        "driverId": "DRIVER00308",
+        "status": "inactive",
+        "routeId": "ROUTE00067"
+    },
+    {
+        "busId": "BUS00309",
+        "driverId": "DRIVER00309",
+        "status": "inactive",
+        "routeId": "ROUTE00067"
+    },
+    {
+        "busId": "BUS00310",
+        "driverId": "DRIVER00310",
+        "status": "active",
+        "routeId": "ROUTE00067"
+    },
+    {
+        "busId": "BUS00311",
+        "driverId": "DRIVER00311",
+        "status": "active",
+        "routeId": "ROUTE00067"
+    },
+    {
+        "busId": "BUS00312",
+        "driverId": "DRIVER00312",
+        "status": "inactive",
+        "routeId": "ROUTE00067"
+    },
+    {
+        "busId": "BUS00313",
+        "driverId": "DRIVER00313",
+        "status": "active",
+        "routeId": "ROUTE00067"
+    },
+    {
+        "busId": "BUS00314",
+        "driverId": "DRIVER00314",
+        "status": "inactive",
+        "routeId": "ROUTE00068"
+    },
+    {
+        "busId": "BUS00315",
+        "driverId": "DRIVER00315",
+        "status": "active",
+        "routeId": "ROUTE00068"
+    },
+    {
+        "busId": "BUS00316",
+        "driverId": "DRIVER00316",
+        "status": "inactive",
+        "routeId": "ROUTE00068"
+    },
+    {
+        "busId": "BUS00317",
+        "driverId": "DRIVER00317",
+        "status": "inactive",
+        "routeId": "ROUTE00068"
+    },
+    {
+        "busId": "BUS00318",
+        "driverId": "DRIVER00318",
+        "status": "active",
+        "routeId": "ROUTE00069"
+    },
+    {
+        "busId": "BUS00319",
+        "driverId": "DRIVER00319",
+        "status": "inactive",
+        "routeId": "ROUTE00069"
+    },
+    {
+        "busId": "BUS00320",
+        "driverId": "DRIVER00320",
+        "status": "active",
+        "routeId": "ROUTE00069"
+    },
+    {
+        "busId": "BUS00321",
+        "driverId": "DRIVER00321",
+        "status": "active",
+        "routeId": "ROUTE00070"
+    },
+    {
+        "busId": "BUS00322",
+        "driverId": "DRIVER00322",
+        "status": "inactive",
+        "routeId": "ROUTE00070"
+    },
+    {
+        "busId": "BUS00323",
+        "driverId": "DRIVER00323",
+        "status": "active",
+        "routeId": "ROUTE00070"
+    },
+    {
+        "busId": "BUS00324",
+        "driverId": "DRIVER00324",
+        "status": "active",
+        "routeId": "ROUTE00071"
+    },
+    {
+        "busId": "BUS00325",
+        "driverId": "DRIVER00325",
+        "status": "inactive",
+        "routeId": "ROUTE00071"
+    },
+    {
+        "busId": "BUS00326",
+        "driverId": "DRIVER00326",
+        "status": "inactive",
+        "routeId": "ROUTE00071"
+    },
+    {
+        "busId": "BUS00327",
+        "driverId": "DRIVER00327",
+        "status": "active",
+        "routeId": "ROUTE00072"
+    },
+    {
+        "busId": "BUS00328",
+        "driverId": "DRIVER00328",
+        "status": "inactive",
+        "routeId": "ROUTE00072"
+    },
+    {
+        "busId": "BUS00329",
+        "driverId": "DRIVER00329",
+        "status": "inactive",
+        "routeId": "ROUTE00072"
+    },
+    {
+        "busId": "BUS00330",
+        "driverId": "DRIVER00330",
+        "status": "inactive",
+        "routeId": "ROUTE00072"
+    },
+    {
+        "busId": "BUS00331",
+        "driverId": "DRIVER00331",
+        "status": "inactive",
+        "routeId": "ROUTE00072"
+    },
+    {
+        "busId": "BUS00332",
+        "driverId": "DRIVER00332",
+        "status": "inactive",
+        "routeId": "ROUTE00072"
+    },
+    {
+        "busId": "BUS00333",
+        "driverId": "DRIVER00333",
+        "status": "active",
+        "routeId": "ROUTE00073"
+    },
+    {
+        "busId": "BUS00334",
+        "driverId": "DRIVER00334",
+        "status": "inactive",
+        "routeId": "ROUTE00073"
+    },
+    {
+        "busId": "BUS00335",
+        "driverId": "DRIVER00335",
+        "status": "active",
+        "routeId": "ROUTE00073"
+    },
+    {
+        "busId": "BUS00336",
+        "driverId": "DRIVER00336",
+        "status": "inactive",
+        "routeId": "ROUTE00073"
+    },
+    {
+        "busId": "BUS00337",
+        "driverId": "DRIVER00337",
+        "status": "active",
+        "routeId": "ROUTE00073"
+    },
+    {
+        "busId": "BUS00338",
+        "driverId": "DRIVER00338",
+        "status": "active",
+        "routeId": "ROUTE00074"
+    },
+    {
+        "busId": "BUS00339",
+        "driverId": "DRIVER00339",
+        "status": "inactive",
+        "routeId": "ROUTE00074"
+    },
+    {
+        "busId": "BUS00340",
+        "driverId": "DRIVER00340",
+        "status": "active",
+        "routeId": "ROUTE00074"
+    },
+    {
+        "busId": "BUS00341",
+        "driverId": "DRIVER00341",
+        "status": "active",
+        "routeId": "ROUTE00075"
+    },
+    {
+        "busId": "BUS00342",
+        "driverId": "DRIVER00342",
+        "status": "active",
+        "routeId": "ROUTE00075"
+    },
+    {
+        "busId": "BUS00343",
+        "driverId": "DRIVER00343",
+        "status": "active",
+        "routeId": "ROUTE00075"
+    },
+    {
+        "busId": "BUS00344",
+        "driverId": "DRIVER00344",
+        "status": "active",
+        "routeId": "ROUTE00075"
+    },
+    {
+        "busId": "BUS00345",
+        "driverId": "DRIVER00345",
+        "status": "active",
+        "routeId": "ROUTE00075"
+    },
+    {
+        "busId": "BUS00346",
+        "driverId": "DRIVER00346",
+        "status": "inactive",
+        "routeId": "ROUTE00075"
+    },
+    {
+        "busId": "BUS00347",
+        "driverId": "DRIVER00347",
+        "status": "active",
+        "routeId": "ROUTE00076"
+    },
+    {
+        "busId": "BUS00348",
+        "driverId": "DRIVER00348",
+        "status": "active",
+        "routeId": "ROUTE00076"
+    },
+    {
+        "busId": "BUS00349",
+        "driverId": "DRIVER00349",
+        "status": "active",
+        "routeId": "ROUTE00076"
+    },
+    {
+        "busId": "BUS00350",
+        "driverId": "DRIVER00350",
+        "status": "inactive",
+        "routeId": "ROUTE00077"
+    },
+    {
+        "busId": "BUS00351",
+        "driverId": "DRIVER00351",
+        "status": "inactive",
+        "routeId": "ROUTE00077"
+    },
+    {
+        "busId": "BUS00352",
+        "driverId": "DRIVER00352",
+        "status": "inactive",
+        "routeId": "ROUTE00077"
+    },
+    {
+        "busId": "BUS00353",
+        "driverId": "DRIVER00353",
+        "status": "active",
+        "routeId": "ROUTE00078"
+    },
+    {
+        "busId": "BUS00354",
+        "driverId": "DRIVER00354",
+        "status": "inactive",
+        "routeId": "ROUTE00078"
+    },
+    {
+        "busId": "BUS00355",
+        "driverId": "DRIVER00355",
+        "status": "inactive",
+        "routeId": "ROUTE00078"
+    },
+    {
+        "busId": "BUS00356",
+        "driverId": "DRIVER00356",
+        "status": "active",
+        "routeId": "ROUTE00078"
+    },
+    {
+        "busId": "BUS00357",
+        "driverId": "DRIVER00357",
+        "status": "inactive",
+        "routeId": "ROUTE00079"
+    },
+    {
+        "busId": "BUS00358",
+        "driverId": "DRIVER00358",
+        "status": "active",
+        "routeId": "ROUTE00079"
+    },
+    {
+        "busId": "BUS00359",
+        "driverId": "DRIVER00359",
+        "status": "inactive",
+        "routeId": "ROUTE00079"
+    },
+    {
+        "busId": "BUS00360",
+        "driverId": "DRIVER00360",
+        "status": "inactive",
+        "routeId": "ROUTE00079"
+    },
+    {
+        "busId": "BUS00361",
+        "driverId": "DRIVER00361",
+        "status": "active",
+        "routeId": "ROUTE00079"
+    },
+    {
+        "busId": "BUS00362",
+        "driverId": "DRIVER00362",
+        "status": "active",
+        "routeId": "ROUTE00079"
+    },
+    {
+        "busId": "BUS00363",
+        "driverId": "DRIVER00363",
+        "status": "inactive",
+        "routeId": "ROUTE00080"
+    },
+    {
+        "busId": "BUS00364",
+        "driverId": "DRIVER00364",
+        "status": "inactive",
+        "routeId": "ROUTE00080"
+    },
+    {
+        "busId": "BUS00365",
+        "driverId": "DRIVER00365",
+        "status": "active",
+        "routeId": "ROUTE00080"
+    },
+    {
+        "busId": "BUS00366",
+        "driverId": "DRIVER00366",
+        "status": "inactive",
+        "routeId": "ROUTE00080"
+    },
+    {
+        "busId": "BUS00367",
+        "driverId": "DRIVER00367",
+        "status": "inactive",
+        "routeId": "ROUTE00081"
+    },
+    {
+        "busId": "BUS00368",
+        "driverId": "DRIVER00368",
+        "status": "inactive",
+        "routeId": "ROUTE00081"
+    },
+    {
+        "busId": "BUS00369",
+        "driverId": "DRIVER00369",
+        "status": "active",
+        "routeId": "ROUTE00081"
+    },
+    {
+        "busId": "BUS00370",
+        "driverId": "DRIVER00370",
+        "status": "active",
+        "routeId": "ROUTE00081"
+    },
+    {
+        "busId": "BUS00371",
+        "driverId": "DRIVER00371",
+        "status": "active",
+        "routeId": "ROUTE00081"
+    },
+    {
+        "busId": "BUS00372",
+        "driverId": "DRIVER00372",
+        "status": "inactive",
+        "routeId": "ROUTE00081"
+    },
+    {
+        "busId": "BUS00373",
+        "driverId": "DRIVER00373",
+        "status": "inactive",
+        "routeId": "ROUTE00082"
+    },
+    {
+        "busId": "BUS00374",
+        "driverId": "DRIVER00374",
+        "status": "inactive",
+        "routeId": "ROUTE00082"
+    },
+    {
+        "busId": "BUS00375",
+        "driverId": "DRIVER00375",
+        "status": "inactive",
+        "routeId": "ROUTE00082"
+    },
+    {
+        "busId": "BUS00376",
+        "driverId": "DRIVER00376",
+        "status": "active",
+        "routeId": "ROUTE00083"
+    },
+    {
+        "busId": "BUS00377",
+        "driverId": "DRIVER00377",
+        "status": "inactive",
+        "routeId": "ROUTE00083"
+    },
+    {
+        "busId": "BUS00378",
+        "driverId": "DRIVER00378",
+        "status": "active",
+        "routeId": "ROUTE00083"
+    },
+    {
+        "busId": "BUS00379",
+        "driverId": "DRIVER00379",
+        "status": "active",
+        "routeId": "ROUTE00083"
+    },
+    {
+        "busId": "BUS00380",
+        "driverId": "DRIVER00380",
+        "status": "active",
+        "routeId": "ROUTE00083"
+    },
+    {
+        "busId": "BUS00381",
+        "driverId": "DRIVER00381",
+        "status": "active",
+        "routeId": "ROUTE00084"
+    },
+    {
+        "busId": "BUS00382",
+        "driverId": "DRIVER00382",
+        "status": "inactive",
+        "routeId": "ROUTE00084"
+    },
+    {
+        "busId": "BUS00383",
+        "driverId": "DRIVER00383",
+        "status": "inactive",
+        "routeId": "ROUTE00084"
+    },
+    {
+        "busId": "BUS00384",
+        "driverId": "DRIVER00384",
+        "status": "inactive",
+        "routeId": "ROUTE00085"
+    },
+    {
+        "busId": "BUS00385",
+        "driverId": "DRIVER00385",
+        "status": "active",
+        "routeId": "ROUTE00085"
+    },
+    {
+        "busId": "BUS00386",
+        "driverId": "DRIVER00386",
+        "status": "inactive",
+        "routeId": "ROUTE00085"
+    },
+    {
+        "busId": "BUS00387",
+        "driverId": "DRIVER00387",
+        "status": "active",
+        "routeId": "ROUTE00085"
+    },
+    {
+        "busId": "BUS00388",
+        "driverId": "DRIVER00388",
+        "status": "inactive",
+        "routeId": "ROUTE00085"
+    },
+    {
+        "busId": "BUS00389",
+        "driverId": "DRIVER00389",
+        "status": "inactive",
+        "routeId": "ROUTE00085"
+    },
+    {
+        "busId": "BUS00390",
+        "driverId": "DRIVER00390",
+        "status": "active",
+        "routeId": "ROUTE00086"
+    },
+    {
+        "busId": "BUS00391",
+        "driverId": "DRIVER00391",
+        "status": "active",
+        "routeId": "ROUTE00086"
+    },
+    {
+        "busId": "BUS00392",
+        "driverId": "DRIVER00392",
+        "status": "inactive",
+        "routeId": "ROUTE00086"
+    },
+    {
+        "busId": "BUS00393",
+        "driverId": "DRIVER00393",
+        "status": "active",
+        "routeId": "ROUTE00086"
+    },
+    {
+        "busId": "BUS00394",
+        "driverId": "DRIVER00394",
+        "status": "active",
+        "routeId": "ROUTE00086"
+    },
+    {
+        "busId": "BUS00395",
+        "driverId": "DRIVER00395",
+        "status": "inactive",
+        "routeId": "ROUTE00087"
+    },
+    {
+        "busId": "BUS00396",
+        "driverId": "DRIVER00396",
+        "status": "inactive",
+        "routeId": "ROUTE00087"
+    },
+    {
+        "busId": "BUS00397",
+        "driverId": "DRIVER00397",
+        "status": "active",
+        "routeId": "ROUTE00087"
+    },
+    {
+        "busId": "BUS00398",
+        "driverId": "DRIVER00398",
+        "status": "active",
+        "routeId": "ROUTE00087"
+    },
+    {
+        "busId": "BUS00399",
+        "driverId": "DRIVER00399",
+        "status": "inactive",
+        "routeId": "ROUTE00087"
+    },
+    {
+        "busId": "BUS00400",
+        "driverId": "DRIVER00400",
+        "status": "active",
+        "routeId": "ROUTE00087"
+    },
+    {
+        "busId": "BUS00401",
+        "driverId": "DRIVER00401",
+        "status": "active",
+        "routeId": "ROUTE00088"
+    },
+    {
+        "busId": "BUS00402",
+        "driverId": "DRIVER00402",
+        "status": "active",
+        "routeId": "ROUTE00088"
+    },
+    {
+        "busId": "BUS00403",
+        "driverId": "DRIVER00403",
+        "status": "active",
+        "routeId": "ROUTE00088"
+    },
+    {
+        "busId": "BUS00404",
+        "driverId": "DRIVER00404",
+        "status": "inactive",
+        "routeId": "ROUTE00088"
+    },
+    {
+        "busId": "BUS00405",
+        "driverId": "DRIVER00405",
+        "status": "active",
+        "routeId": "ROUTE00089"
+    },
+    {
+        "busId": "BUS00406",
+        "driverId": "DRIVER00406",
+        "status": "active",
+        "routeId": "ROUTE00089"
+    },
+    {
+        "busId": "BUS00407",
+        "driverId": "DRIVER00407",
+        "status": "active",
+        "routeId": "ROUTE00089"
+    },
+    {
+        "busId": "BUS00408",
+        "driverId": "DRIVER00408",
+        "status": "active",
+        "routeId": "ROUTE00089"
+    },
+    {
+        "busId": "BUS00409",
+        "driverId": "DRIVER00409",
+        "status": "active",
+        "routeId": "ROUTE00090"
+    },
+    {
+        "busId": "BUS00410",
+        "driverId": "DRIVER00410",
+        "status": "inactive",
+        "routeId": "ROUTE00090"
+    },
+    {
+        "busId": "BUS00411",
+        "driverId": "DRIVER00411",
+        "status": "active",
+        "routeId": "ROUTE00090"
+    },
+    {
+        "busId": "BUS00412",
+        "driverId": "DRIVER00412",
+        "status": "active",
+        "routeId": "ROUTE00090"
+    },
+    {
+        "busId": "BUS00413",
+        "driverId": "DRIVER00413",
+        "status": "active",
+        "routeId": "ROUTE00090"
+    },
+    {
+        "busId": "BUS00414",
+        "driverId": "DRIVER00414",
+        "status": "active",
+        "routeId": "ROUTE00091"
+    },
+    {
+        "busId": "BUS00415",
+        "driverId": "DRIVER00415",
+        "status": "active",
+        "routeId": "ROUTE00091"
+    },
+    {
+        "busId": "BUS00416",
+        "driverId": "DRIVER00416",
+        "status": "inactive",
+        "routeId": "ROUTE00091"
+    },
+    {
+        "busId": "BUS00417",
+        "driverId": "DRIVER00417",
+        "status": "inactive",
+        "routeId": "ROUTE00091"
+    },
+    {
+        "busId": "BUS00418",
+        "driverId": "DRIVER00418",
+        "status": "active",
+        "routeId": "ROUTE00091"
+    },
+    {
+        "busId": "BUS00419",
+        "driverId": "DRIVER00419",
+        "status": "active",
+        "routeId": "ROUTE00092"
+    },
+    {
+        "busId": "BUS00420",
+        "driverId": "DRIVER00420",
+        "status": "inactive",
+        "routeId": "ROUTE00092"
+    },
+    {
+        "busId": "BUS00421",
+        "driverId": "DRIVER00421",
+        "status": "active",
+        "routeId": "ROUTE00092"
+    },
+    {
+        "busId": "BUS00422",
+        "driverId": "DRIVER00422",
+        "status": "inactive",
+        "routeId": "ROUTE00092"
+    },
+    {
+        "busId": "BUS00423",
+        "driverId": "DRIVER00423",
+        "status": "active",
+        "routeId": "ROUTE00092"
+    },
+    {
+        "busId": "BUS00424",
+        "driverId": "DRIVER00424",
+        "status": "inactive",
+        "routeId": "ROUTE00093"
+    },
+    {
+        "busId": "BUS00425",
+        "driverId": "DRIVER00425",
+        "status": "active",
+        "routeId": "ROUTE00093"
+    },
+    {
+        "busId": "BUS00426",
+        "driverId": "DRIVER00426",
+        "status": "active",
+        "routeId": "ROUTE00093"
+    },
+    {
+        "busId": "BUS00427",
+        "driverId": "DRIVER00427",
+        "status": "active",
+        "routeId": "ROUTE00093"
+    },
+    {
+        "busId": "BUS00428",
+        "driverId": "DRIVER00428",
+        "status": "active",
+        "routeId": "ROUTE00093"
+    },
+    {
+        "busId": "BUS00429",
+        "driverId": "DRIVER00429",
+        "status": "inactive",
+        "routeId": "ROUTE00093"
+    },
+    {
+        "busId": "BUS00430",
+        "driverId": "DRIVER00430",
+        "status": "active",
+        "routeId": "ROUTE00094"
+    },
+    {
+        "busId": "BUS00431",
+        "driverId": "DRIVER00431",
+        "status": "active",
+        "routeId": "ROUTE00094"
+    },
+    {
+        "busId": "BUS00432",
+        "driverId": "DRIVER00432",
+        "status": "inactive",
+        "routeId": "ROUTE00094"
+    },
+    {
+        "busId": "BUS00433",
+        "driverId": "DRIVER00433",
+        "status": "inactive",
+        "routeId": "ROUTE00095"
+    },
+    {
+        "busId": "BUS00434",
+        "driverId": "DRIVER00434",
+        "status": "inactive",
+        "routeId": "ROUTE00095"
+    },
+    {
+        "busId": "BUS00435",
+        "driverId": "DRIVER00435",
+        "status": "active",
+        "routeId": "ROUTE00095"
+    },
+    {
+        "busId": "BUS00436",
+        "driverId": "DRIVER00436",
+        "status": "inactive",
+        "routeId": "ROUTE00095"
+    },
+    {
+        "busId": "BUS00437",
+        "driverId": "DRIVER00437",
+        "status": "inactive",
+        "routeId": "ROUTE00095"
+    },
+    {
+        "busId": "BUS00438",
+        "driverId": "DRIVER00438",
+        "status": "inactive",
+        "routeId": "ROUTE00096"
+    },
+    {
+        "busId": "BUS00439",
+        "driverId": "DRIVER00439",
+        "status": "inactive",
+        "routeId": "ROUTE00096"
+    },
+    {
+        "busId": "BUS00440",
+        "driverId": "DRIVER00440",
+        "status": "active",
+        "routeId": "ROUTE00096"
+    },
+    {
+        "busId": "BUS00441",
+        "driverId": "DRIVER00441",
+        "status": "inactive",
+        "routeId": "ROUTE00096"
+    },
+    {
+        "busId": "BUS00442",
+        "driverId": "DRIVER00442",
+        "status": "inactive",
+        "routeId": "ROUTE00096"
+    },
+    {
+        "busId": "BUS00443",
+        "driverId": "DRIVER00443",
+        "status": "inactive",
+        "routeId": "ROUTE00096"
+    },
+    {
+        "busId": "BUS00444",
+        "driverId": "DRIVER00444",
+        "status": "inactive",
+        "routeId": "ROUTE00097"
+    },
+    {
+        "busId": "BUS00445",
+        "driverId": "DRIVER00445",
+        "status": "active",
+        "routeId": "ROUTE00097"
+    },
+    {
+        "busId": "BUS00446",
+        "driverId": "DRIVER00446",
+        "status": "active",
+        "routeId": "ROUTE00097"
+    },
+    {
+        "busId": "BUS00447",
+        "driverId": "DRIVER00447",
+        "status": "inactive",
+        "routeId": "ROUTE00097"
+    },
+    {
+        "busId": "BUS00448",
+        "driverId": "DRIVER00448",
+        "status": "active",
+        "routeId": "ROUTE00098"
+    },
+    {
+        "busId": "BUS00449",
+        "driverId": "DRIVER00449",
+        "status": "inactive",
+        "routeId": "ROUTE00098"
+    },
+    {
+        "busId": "BUS00450",
+        "driverId": "DRIVER00450",
+        "status": "active",
+        "routeId": "ROUTE00098"
+    },
+    {
+        "busId": "BUS00451",
+        "driverId": "DRIVER00451",
+        "status": "active",
+        "routeId": "ROUTE00098"
+    },
+    {
+        "busId": "BUS00452",
+        "driverId": "DRIVER00452",
+        "status": "inactive",
+        "routeId": "ROUTE00098"
+    },
+    {
+        "busId": "BUS00453",
+        "driverId": "DRIVER00453",
+        "status": "inactive",
+        "routeId": "ROUTE00098"
+    },
+    {
+        "busId": "BUS00454",
+        "driverId": "DRIVER00454",
+        "status": "inactive",
+        "routeId": "ROUTE00099"
+    },
+    {
+        "busId": "BUS00455",
+        "driverId": "DRIVER00455",
+        "status": "active",
+        "routeId": "ROUTE00099"
+    },
+    {
+        "busId": "BUS00456",
+        "driverId": "DRIVER00456",
+        "status": "active",
+        "routeId": "ROUTE00099"
+    },
+    {
+        "busId": "BUS00457",
+        "driverId": "DRIVER00457",
+        "status": "inactive",
+        "routeId": "ROUTE00100"
+    },
+    {
+        "busId": "BUS00458",
+        "driverId": "DRIVER00458",
+        "status": "active",
+        "routeId": "ROUTE00100"
+    },
+    {
+        "busId": "BUS00459",
+        "driverId": "DRIVER00459",
+        "status": "inactive",
+        "routeId": "ROUTE00100"
+    },
+    {
+        "busId": "BUS00460",
+        "driverId": "DRIVER00460",
+        "status": "active",
+        "routeId": "ROUTE00100"
+    },
+    {
+        "busId": "BUS00461",
+        "driverId": "DRIVER00461",
+        "status": "inactive",
+        "routeId": "ROUTE00100"
+    },
+    {
+        "busId": "BUS00462",
+        "driverId": "DRIVER00462",
+        "status": "active",
+        "routeId": "ROUTE00100"
+    },
+    {
+        "busId": "BUS00463",
+        "driverId": "DRIVER00463",
+        "status": "inactive",
+        "routeId": "ROUTE00101"
+    },
+    {
+        "busId": "BUS00464",
+        "driverId": "DRIVER00464",
+        "status": "active",
+        "routeId": "ROUTE00101"
+    },
+    {
+        "busId": "BUS00465",
+        "driverId": "DRIVER00465",
+        "status": "active",
+        "routeId": "ROUTE00101"
+    },
+    {
+        "busId": "BUS00466",
+        "driverId": "DRIVER00466",
+        "status": "active",
+        "routeId": "ROUTE00101"
+    },
+    {
+        "busId": "BUS00467",
+        "driverId": "DRIVER00467",
+        "status": "inactive",
+        "routeId": "ROUTE00102"
+    },
+    {
+        "busId": "BUS00468",
+        "driverId": "DRIVER00468",
+        "status": "active",
+        "routeId": "ROUTE00102"
+    },
+    {
+        "busId": "BUS00469",
+        "driverId": "DRIVER00469",
+        "status": "active",
+        "routeId": "ROUTE00102"
+    },
+    {
+        "busId": "BUS00470",
+        "driverId": "DRIVER00470",
+        "status": "inactive",
+        "routeId": "ROUTE00102"
+    },
+    {
+        "busId": "BUS00471",
+        "driverId": "DRIVER00471",
+        "status": "inactive",
+        "routeId": "ROUTE00102"
+    },
+    {
+        "busId": "BUS00472",
+        "driverId": "DRIVER00472",
+        "status": "active",
+        "routeId": "ROUTE00102"
+    },
+    {
+        "busId": "BUS00473",
+        "driverId": "DRIVER00473",
+        "status": "inactive",
+        "routeId": "ROUTE00103"
+    },
+    {
+        "busId": "BUS00474",
+        "driverId": "DRIVER00474",
+        "status": "inactive",
+        "routeId": "ROUTE00103"
+    },
+    {
+        "busId": "BUS00475",
+        "driverId": "DRIVER00475",
+        "status": "active",
+        "routeId": "ROUTE00103"
+    },
+    {
+        "busId": "BUS00476",
+        "driverId": "DRIVER00476",
+        "status": "active",
+        "routeId": "ROUTE00103"
+    },
+    {
+        "busId": "BUS00477",
+        "driverId": "DRIVER00477",
+        "status": "inactive",
+        "routeId": "ROUTE00103"
+    },
+    {
+        "busId": "BUS00478",
+        "driverId": "DRIVER00478",
+        "status": "active",
+        "routeId": "ROUTE00103"
+    },
+    {
+        "busId": "BUS00479",
+        "driverId": "DRIVER00479",
+        "status": "inactive",
+        "routeId": "ROUTE00104"
+    },
+    {
+        "busId": "BUS00480",
+        "driverId": "DRIVER00480",
+        "status": "active",
+        "routeId": "ROUTE00104"
+    },
+    {
+        "busId": "BUS00481",
+        "driverId": "DRIVER00481",
+        "status": "inactive",
+        "routeId": "ROUTE00104"
+    },
+    {
+        "busId": "BUS00482",
+        "driverId": "DRIVER00482",
+        "status": "active",
+        "routeId": "ROUTE00104"
+    },
+    {
+        "busId": "BUS00483",
+        "driverId": "DRIVER00483",
+        "status": "inactive",
+        "routeId": "ROUTE00105"
+    },
+    {
+        "busId": "BUS00484",
+        "driverId": "DRIVER00484",
+        "status": "inactive",
+        "routeId": "ROUTE00105"
+    },
+    {
+        "busId": "BUS00485",
+        "driverId": "DRIVER00485",
+        "status": "active",
+        "routeId": "ROUTE00105"
+    },
+    {
+        "busId": "BUS00486",
+        "driverId": "DRIVER00486",
+        "status": "inactive",
+        "routeId": "ROUTE00105"
+    },
+    {
+        "busId": "BUS00487",
+        "driverId": "DRIVER00487",
+        "status": "inactive",
+        "routeId": "ROUTE00105"
+    },
+    {
+        "busId": "BUS00488",
+        "driverId": "DRIVER00488",
+        "status": "active",
+        "routeId": "ROUTE00105"
+    },
+    {
+        "busId": "BUS00489",
+        "driverId": "DRIVER00489",
+        "status": "inactive",
+        "routeId": "ROUTE00106"
+    },
+    {
+        "busId": "BUS00490",
+        "driverId": "DRIVER00490",
+        "status": "active",
+        "routeId": "ROUTE00106"
+    },
+    {
+        "busId": "BUS00491",
+        "driverId": "DRIVER00491",
+        "status": "inactive",
+        "routeId": "ROUTE00106"
+    },
+    {
+        "busId": "BUS00492",
+        "driverId": "DRIVER00492",
+        "status": "inactive",
+        "routeId": "ROUTE00106"
+    },
+    {
+        "busId": "BUS00493",
+        "driverId": "DRIVER00493",
+        "status": "inactive",
+        "routeId": "ROUTE00106"
+    },
+    {
+        "busId": "BUS00494",
+        "driverId": "DRIVER00494",
+        "status": "inactive",
+        "routeId": "ROUTE00107"
+    },
+    {
+        "busId": "BUS00495",
+        "driverId": "DRIVER00495",
+        "status": "active",
+        "routeId": "ROUTE00107"
+    },
+    {
+        "busId": "BUS00496",
+        "driverId": "DRIVER00496",
+        "status": "active",
+        "routeId": "ROUTE00107"
+    },
+    {
+        "busId": "BUS00497",
+        "driverId": "DRIVER00497",
+        "status": "inactive",
+        "routeId": "ROUTE00108"
+    },
+    {
+        "busId": "BUS00498",
+        "driverId": "DRIVER00498",
+        "status": "active",
+        "routeId": "ROUTE00108"
+    },
+    {
+        "busId": "BUS00499",
+        "driverId": "DRIVER00499",
+        "status": "active",
+        "routeId": "ROUTE00108"
+    },
+    {
+        "busId": "BUS00500",
+        "driverId": "DRIVER00500",
+        "status": "active",
+        "routeId": "ROUTE00108"
+    },
+    {
+        "busId": "BUS00501",
+        "driverId": "DRIVER00501",
+        "status": "active",
+        "routeId": "ROUTE00108"
+    },
+    {
+        "busId": "BUS00502",
+        "driverId": "DRIVER00502",
+        "status": "inactive",
+        "routeId": "ROUTE00109"
+    },
+    {
+        "busId": "BUS00503",
+        "driverId": "DRIVER00503",
+        "status": "active",
+        "routeId": "ROUTE00109"
+    },
+    {
+        "busId": "BUS00504",
+        "driverId": "DRIVER00504",
+        "status": "active",
+        "routeId": "ROUTE00109"
+    },
+    {
+        "busId": "BUS00505",
+        "driverId": "DRIVER00505",
+        "status": "inactive",
+        "routeId": "ROUTE00110"
+    },
+    {
+        "busId": "BUS00506",
+        "driverId": "DRIVER00506",
+        "status": "active",
+        "routeId": "ROUTE00110"
+    },
+    {
+        "busId": "BUS00507",
+        "driverId": "DRIVER00507",
+        "status": "active",
+        "routeId": "ROUTE00110"
+    },
+    {
+        "busId": "BUS00508",
+        "driverId": "DRIVER00508",
+        "status": "active",
+        "routeId": "ROUTE00111"
+    },
+    {
+        "busId": "BUS00509",
+        "driverId": "DRIVER00509",
+        "status": "inactive",
+        "routeId": "ROUTE00111"
+    },
+    {
+        "busId": "BUS00510",
+        "driverId": "DRIVER00510",
+        "status": "inactive",
+        "routeId": "ROUTE00111"
+    },
+    {
+        "busId": "BUS00511",
+        "driverId": "DRIVER00511",
+        "status": "inactive",
+        "routeId": "ROUTE00111"
+    },
+    {
+        "busId": "BUS00512",
+        "driverId": "DRIVER00512",
+        "status": "active",
+        "routeId": "ROUTE00111"
+    },
+    {
+        "busId": "BUS00513",
+        "driverId": "DRIVER00513",
+        "status": "inactive",
+        "routeId": "ROUTE00112"
+    },
+    {
+        "busId": "BUS00514",
+        "driverId": "DRIVER00514",
+        "status": "inactive",
+        "routeId": "ROUTE00112"
+    },
+    {
+        "busId": "BUS00515",
+        "driverId": "DRIVER00515",
+        "status": "inactive",
+        "routeId": "ROUTE00112"
+    },
+    {
+        "busId": "BUS00516",
+        "driverId": "DRIVER00516",
+        "status": "inactive",
+        "routeId": "ROUTE00112"
+    },
+    {
+        "busId": "BUS00517",
+        "driverId": "DRIVER00517",
+        "status": "active",
+        "routeId": "ROUTE00112"
+    },
+    {
+        "busId": "BUS00518",
+        "driverId": "DRIVER00518",
+        "status": "inactive",
+        "routeId": "ROUTE00113"
+    },
+    {
+        "busId": "BUS00519",
+        "driverId": "DRIVER00519",
+        "status": "active",
+        "routeId": "ROUTE00113"
+    },
+    {
+        "busId": "BUS00520",
+        "driverId": "DRIVER00520",
+        "status": "inactive",
+        "routeId": "ROUTE00113"
+    },
+    {
+        "busId": "BUS00521",
+        "driverId": "DRIVER00521",
+        "status": "inactive",
+        "routeId": "ROUTE00113"
+    },
+    {
+        "busId": "BUS00522",
+        "driverId": "DRIVER00522",
+        "status": "inactive",
+        "routeId": "ROUTE00114"
+    },
+    {
+        "busId": "BUS00523",
+        "driverId": "DRIVER00523",
+        "status": "active",
+        "routeId": "ROUTE00114"
+    },
+    {
+        "busId": "BUS00524",
+        "driverId": "DRIVER00524",
+        "status": "active",
+        "routeId": "ROUTE00114"
+    },
+    {
+        "busId": "BUS00525",
+        "driverId": "DRIVER00525",
+        "status": "inactive",
+        "routeId": "ROUTE00115"
+    },
+    {
+        "busId": "BUS00526",
+        "driverId": "DRIVER00526",
+        "status": "inactive",
+        "routeId": "ROUTE00115"
+    },
+    {
+        "busId": "BUS00527",
+        "driverId": "DRIVER00527",
+        "status": "inactive",
+        "routeId": "ROUTE00115"
+    },
+    {
+        "busId": "BUS00528",
+        "driverId": "DRIVER00528",
+        "status": "inactive",
+        "routeId": "ROUTE00115"
+    },
+    {
+        "busId": "BUS00529",
+        "driverId": "DRIVER00529",
+        "status": "inactive",
+        "routeId": "ROUTE00116"
+    },
+    {
+        "busId": "BUS00530",
+        "driverId": "DRIVER00530",
+        "status": "inactive",
+        "routeId": "ROUTE00116"
+    },
+    {
+        "busId": "BUS00531",
+        "driverId": "DRIVER00531",
+        "status": "active",
+        "routeId": "ROUTE00116"
+    },
+    {
+        "busId": "BUS00532",
+        "driverId": "DRIVER00532",
+        "status": "inactive",
+        "routeId": "ROUTE00117"
+    },
+    {
+        "busId": "BUS00533",
+        "driverId": "DRIVER00533",
+        "status": "inactive",
+        "routeId": "ROUTE00117"
+    },
+    {
+        "busId": "BUS00534",
+        "driverId": "DRIVER00534",
+        "status": "inactive",
+        "routeId": "ROUTE00117"
+    },
+    {
+        "busId": "BUS00535",
+        "driverId": "DRIVER00535",
+        "status": "inactive",
+        "routeId": "ROUTE00117"
+    },
+    {
+        "busId": "BUS00536",
+        "driverId": "DRIVER00536",
+        "status": "inactive",
+        "routeId": "ROUTE00118"
+    },
+    {
+        "busId": "BUS00537",
+        "driverId": "DRIVER00537",
+        "status": "inactive",
+        "routeId": "ROUTE00118"
+    },
+    {
+        "busId": "BUS00538",
+        "driverId": "DRIVER00538",
+        "status": "inactive",
+        "routeId": "ROUTE00118"
+    },
+    {
+        "busId": "BUS00539",
+        "driverId": "DRIVER00539",
+        "status": "active",
+        "routeId": "ROUTE00118"
+    },
+    {
+        "busId": "BUS00540",
+        "driverId": "DRIVER00540",
+        "status": "inactive",
+        "routeId": "ROUTE00119"
+    },
+    {
+        "busId": "BUS00541",
+        "driverId": "DRIVER00541",
+        "status": "inactive",
+        "routeId": "ROUTE00119"
+    },
+    {
+        "busId": "BUS00542",
+        "driverId": "DRIVER00542",
+        "status": "inactive",
+        "routeId": "ROUTE00119"
+    },
+    {
+        "busId": "BUS00543",
+        "driverId": "DRIVER00543",
+        "status": "active",
+        "routeId": "ROUTE00119"
+    },
+    {
+        "busId": "BUS00544",
+        "driverId": "DRIVER00544",
+        "status": "inactive",
+        "routeId": "ROUTE00119"
+    },
+    {
+        "busId": "BUS00545",
+        "driverId": "DRIVER00545",
+        "status": "active",
+        "routeId": "ROUTE00119"
+    },
+    {
+        "busId": "BUS00546",
+        "driverId": "DRIVER00546",
+        "status": "inactive",
+        "routeId": "ROUTE00120"
+    },
+    {
+        "busId": "BUS00547",
+        "driverId": "DRIVER00547",
+        "status": "active",
+        "routeId": "ROUTE00120"
+    },
+    {
+        "busId": "BUS00548",
+        "driverId": "DRIVER00548",
+        "status": "active",
+        "routeId": "ROUTE00120"
+    },
+    {
+        "busId": "BUS00549",
+        "driverId": "DRIVER00549",
+        "status": "active",
+        "routeId": "ROUTE00120"
+    },
+    {
+        "busId": "BUS00550",
+        "driverId": "DRIVER00550",
+        "status": "active",
+        "routeId": "ROUTE00121"
+    },
+    {
+        "busId": "BUS00551",
+        "driverId": "DRIVER00551",
+        "status": "inactive",
+        "routeId": "ROUTE00121"
+    },
+    {
+        "busId": "BUS00552",
+        "driverId": "DRIVER00552",
+        "status": "active",
+        "routeId": "ROUTE00121"
+    },
+    {
+        "busId": "BUS00553",
+        "driverId": "DRIVER00553",
+        "status": "inactive",
+        "routeId": "ROUTE00122"
+    },
+    {
+        "busId": "BUS00554",
+        "driverId": "DRIVER00554",
+        "status": "active",
+        "routeId": "ROUTE00122"
+    },
+    {
+        "busId": "BUS00555",
+        "driverId": "DRIVER00555",
+        "status": "active",
+        "routeId": "ROUTE00122"
+    },
+    {
+        "busId": "BUS00556",
+        "driverId": "DRIVER00556",
+        "status": "inactive",
+        "routeId": "ROUTE00122"
+    },
+    {
+        "busId": "BUS00557",
+        "driverId": "DRIVER00557",
+        "status": "inactive",
+        "routeId": "ROUTE00123"
+    },
+    {
+        "busId": "BUS00558",
+        "driverId": "DRIVER00558",
+        "status": "inactive",
+        "routeId": "ROUTE00123"
+    },
+    {
+        "busId": "BUS00559",
+        "driverId": "DRIVER00559",
+        "status": "inactive",
+        "routeId": "ROUTE00123"
+    },
+    {
+        "busId": "BUS00560",
+        "driverId": "DRIVER00560",
+        "status": "inactive",
+        "routeId": "ROUTE00123"
+    },
+    {
+        "busId": "BUS00561",
+        "driverId": "DRIVER00561",
+        "status": "inactive",
+        "routeId": "ROUTE00124"
+    },
+    {
+        "busId": "BUS00562",
+        "driverId": "DRIVER00562",
+        "status": "active",
+        "routeId": "ROUTE00124"
+    },
+    {
+        "busId": "BUS00563",
+        "driverId": "DRIVER00563",
+        "status": "inactive",
+        "routeId": "ROUTE00124"
+    },
+    {
+        "busId": "BUS00564",
+        "driverId": "DRIVER00564",
+        "status": "active",
+        "routeId": "ROUTE00125"
+    },
+    {
+        "busId": "BUS00565",
+        "driverId": "DRIVER00565",
+        "status": "active",
+        "routeId": "ROUTE00125"
+    },
+    {
+        "busId": "BUS00566",
+        "driverId": "DRIVER00566",
+        "status": "active",
+        "routeId": "ROUTE00125"
+    },
+    {
+        "busId": "BUS00567",
+        "driverId": "DRIVER00567",
+        "status": "active",
+        "routeId": "ROUTE00125"
+    },
+    {
+        "busId": "BUS00568",
+        "driverId": "DRIVER00568",
+        "status": "active",
+        "routeId": "ROUTE00125"
+    },
+    {
+        "busId": "BUS00569",
+        "driverId": "DRIVER00569",
+        "status": "active",
+        "routeId": "ROUTE00125"
+    },
+    {
+        "busId": "BUS00570",
+        "driverId": "DRIVER00570",
+        "status": "active",
+        "routeId": "ROUTE00126"
+    },
+    {
+        "busId": "BUS00571",
+        "driverId": "DRIVER00571",
+        "status": "inactive",
+        "routeId": "ROUTE00126"
+    },
+    {
+        "busId": "BUS00572",
+        "driverId": "DRIVER00572",
+        "status": "active",
+        "routeId": "ROUTE00126"
+    },
+    {
+        "busId": "BUS00573",
+        "driverId": "DRIVER00573",
+        "status": "active",
+        "routeId": "ROUTE00127"
+    },
+    {
+        "busId": "BUS00574",
+        "driverId": "DRIVER00574",
+        "status": "active",
+        "routeId": "ROUTE00127"
+    },
+    {
+        "busId": "BUS00575",
+        "driverId": "DRIVER00575",
+        "status": "active",
+        "routeId": "ROUTE00127"
+    },
+    {
+        "busId": "BUS00576",
+        "driverId": "DRIVER00576",
+        "status": "inactive",
+        "routeId": "ROUTE00127"
+    },
+    {
+        "busId": "BUS00577",
+        "driverId": "DRIVER00577",
+        "status": "active",
+        "routeId": "ROUTE00127"
+    },
+    {
+        "busId": "BUS00578",
+        "driverId": "DRIVER00578",
+        "status": "active",
+        "routeId": "ROUTE00128"
+    },
+    {
+        "busId": "BUS00579",
+        "driverId": "DRIVER00579",
+        "status": "inactive",
+        "routeId": "ROUTE00128"
+    },
+    {
+        "busId": "BUS00580",
+        "driverId": "DRIVER00580",
+        "status": "inactive",
+        "routeId": "ROUTE00128"
+    },
+    {
+        "busId": "BUS00581",
+        "driverId": "DRIVER00581",
+        "status": "active",
+        "routeId": "ROUTE00128"
+    },
+    {
+        "busId": "BUS00582",
+        "driverId": "DRIVER00582",
+        "status": "active",
+        "routeId": "ROUTE00128"
+    },
+    {
+        "busId": "BUS00583",
+        "driverId": "DRIVER00583",
+        "status": "inactive",
+        "routeId": "ROUTE00128"
+    },
+    {
+        "busId": "BUS00584",
+        "driverId": "DRIVER00584",
+        "status": "inactive",
+        "routeId": "ROUTE00129"
+    },
+    {
+        "busId": "BUS00585",
+        "driverId": "DRIVER00585",
+        "status": "inactive",
+        "routeId": "ROUTE00129"
+    },
+    {
+        "busId": "BUS00586",
+        "driverId": "DRIVER00586",
+        "status": "inactive",
+        "routeId": "ROUTE00129"
+    },
+    {
+        "busId": "BUS00587",
+        "driverId": "DRIVER00587",
+        "status": "active",
+        "routeId": "ROUTE00130"
+    },
+    {
+        "busId": "BUS00588",
+        "driverId": "DRIVER00588",
+        "status": "inactive",
+        "routeId": "ROUTE00130"
+    },
+    {
+        "busId": "BUS00589",
+        "driverId": "DRIVER00589",
+        "status": "inactive",
+        "routeId": "ROUTE00130"
+    },
+    {
+        "busId": "BUS00590",
+        "driverId": "DRIVER00590",
+        "status": "active",
+        "routeId": "ROUTE00130"
+    },
+    {
+        "busId": "BUS00591",
+        "driverId": "DRIVER00591",
+        "status": "active",
+        "routeId": "ROUTE00130"
+    },
+    {
+        "busId": "BUS00592",
+        "driverId": "DRIVER00592",
+        "status": "inactive",
+        "routeId": "ROUTE00131"
+    },
+    {
+        "busId": "BUS00593",
+        "driverId": "DRIVER00593",
+        "status": "active",
+        "routeId": "ROUTE00131"
+    },
+    {
+        "busId": "BUS00594",
+        "driverId": "DRIVER00594",
+        "status": "inactive",
+        "routeId": "ROUTE00131"
+    },
+    {
+        "busId": "BUS00595",
+        "driverId": "DRIVER00595",
+        "status": "active",
+        "routeId": "ROUTE00131"
+    },
+    {
+        "busId": "BUS00596",
+        "driverId": "DRIVER00596",
+        "status": "inactive",
+        "routeId": "ROUTE00131"
+    },
+    {
+        "busId": "BUS00597",
+        "driverId": "DRIVER00597",
+        "status": "active",
+        "routeId": "ROUTE00132"
+    },
+    {
+        "busId": "BUS00598",
+        "driverId": "DRIVER00598",
+        "status": "active",
+        "routeId": "ROUTE00132"
+    },
+    {
+        "busId": "BUS00599",
+        "driverId": "DRIVER00599",
+        "status": "active",
+        "routeId": "ROUTE00132"
+    },
+    {
+        "busId": "BUS00600",
+        "driverId": "DRIVER00600",
+        "status": "inactive",
+        "routeId": "ROUTE00132"
+    },
+    {
+        "busId": "BUS00601",
+        "driverId": "DRIVER00601",
+        "status": "active",
+        "routeId": "ROUTE00132"
+    },
+    {
+        "busId": "BUS00602",
+        "driverId": "DRIVER00602",
+        "status": "active",
+        "routeId": "ROUTE00133"
+    },
+    {
+        "busId": "BUS00603",
+        "driverId": "DRIVER00603",
+        "status": "active",
+        "routeId": "ROUTE00133"
+    },
+    {
+        "busId": "BUS00604",
+        "driverId": "DRIVER00604",
+        "status": "active",
+        "routeId": "ROUTE00133"
+    },
+    {
+        "busId": "BUS00605",
+        "driverId": "DRIVER00605",
+        "status": "active",
+        "routeId": "ROUTE00134"
+    },
+    {
+        "busId": "BUS00606",
+        "driverId": "DRIVER00606",
+        "status": "active",
+        "routeId": "ROUTE00134"
+    },
+    {
+        "busId": "BUS00607",
+        "driverId": "DRIVER00607",
+        "status": "active",
+        "routeId": "ROUTE00134"
+    },
+    {
+        "busId": "BUS00608",
+        "driverId": "DRIVER00608",
+        "status": "inactive",
+        "routeId": "ROUTE00134"
+    },
+    {
+        "busId": "BUS00609",
+        "driverId": "DRIVER00609",
+        "status": "active",
+        "routeId": "ROUTE00135"
+    },
+    {
+        "busId": "BUS00610",
+        "driverId": "DRIVER00610",
+        "status": "inactive",
+        "routeId": "ROUTE00135"
+    },
+    {
+        "busId": "BUS00611",
+        "driverId": "DRIVER00611",
+        "status": "inactive",
+        "routeId": "ROUTE00135"
+    },
+    {
+        "busId": "BUS00612",
+        "driverId": "DRIVER00612",
+        "status": "active",
+        "routeId": "ROUTE00136"
+    },
+    {
+        "busId": "BUS00613",
+        "driverId": "DRIVER00613",
+        "status": "active",
+        "routeId": "ROUTE00136"
+    },
+    {
+        "busId": "BUS00614",
+        "driverId": "DRIVER00614",
+        "status": "active",
+        "routeId": "ROUTE00136"
+    },
+    {
+        "busId": "BUS00615",
+        "driverId": "DRIVER00615",
+        "status": "active",
+        "routeId": "ROUTE00137"
+    },
+    {
+        "busId": "BUS00616",
+        "driverId": "DRIVER00616",
+        "status": "inactive",
+        "routeId": "ROUTE00137"
+    },
+    {
+        "busId": "BUS00617",
+        "driverId": "DRIVER00617",
+        "status": "active",
+        "routeId": "ROUTE00137"
+    },
+    {
+        "busId": "BUS00618",
+        "driverId": "DRIVER00618",
+        "status": "inactive",
+        "routeId": "ROUTE00137"
+    },
+    {
+        "busId": "BUS00619",
+        "driverId": "DRIVER00619",
+        "status": "inactive",
+        "routeId": "ROUTE00137"
+    },
+    {
+        "busId": "BUS00620",
+        "driverId": "DRIVER00620",
+        "status": "inactive",
+        "routeId": "ROUTE00138"
+    },
+    {
+        "busId": "BUS00621",
+        "driverId": "DRIVER00621",
+        "status": "inactive",
+        "routeId": "ROUTE00138"
+    },
+    {
+        "busId": "BUS00622",
+        "driverId": "DRIVER00622",
+        "status": "inactive",
+        "routeId": "ROUTE00138"
+    },
+    {
+        "busId": "BUS00623",
+        "driverId": "DRIVER00623",
+        "status": "inactive",
+        "routeId": "ROUTE00138"
+    },
+    {
+        "busId": "BUS00624",
+        "driverId": "DRIVER00624",
+        "status": "active",
+        "routeId": "ROUTE00138"
+    },
+    {
+        "busId": "BUS00625",
+        "driverId": "DRIVER00625",
+        "status": "active",
+        "routeId": "ROUTE00138"
+    },
+    {
+        "busId": "BUS00626",
+        "driverId": "DRIVER00626",
+        "status": "active",
+        "routeId": "ROUTE00139"
+    },
+    {
+        "busId": "BUS00627",
+        "driverId": "DRIVER00627",
+        "status": "inactive",
+        "routeId": "ROUTE00139"
+    },
+    {
+        "busId": "BUS00628",
+        "driverId": "DRIVER00628",
+        "status": "active",
+        "routeId": "ROUTE00139"
+    },
+    {
+        "busId": "BUS00629",
+        "driverId": "DRIVER00629",
+        "status": "active",
+        "routeId": "ROUTE00140"
+    },
+    {
+        "busId": "BUS00630",
+        "driverId": "DRIVER00630",
+        "status": "inactive",
+        "routeId": "ROUTE00140"
+    },
+    {
+        "busId": "BUS00631",
+        "driverId": "DRIVER00631",
+        "status": "active",
+        "routeId": "ROUTE00140"
+    },
+    {
+        "busId": "BUS00632",
+        "driverId": "DRIVER00632",
+        "status": "inactive",
+        "routeId": "ROUTE00141"
+    },
+    {
+        "busId": "BUS00633",
+        "driverId": "DRIVER00633",
+        "status": "inactive",
+        "routeId": "ROUTE00141"
+    },
+    {
+        "busId": "BUS00634",
+        "driverId": "DRIVER00634",
+        "status": "active",
+        "routeId": "ROUTE00141"
+    },
+    {
+        "busId": "BUS00635",
+        "driverId": "DRIVER00635",
+        "status": "active",
+        "routeId": "ROUTE00141"
+    },
+    {
+        "busId": "BUS00636",
+        "driverId": "DRIVER00636",
+        "status": "active",
+        "routeId": "ROUTE00142"
+    },
+    {
+        "busId": "BUS00637",
+        "driverId": "DRIVER00637",
+        "status": "inactive",
+        "routeId": "ROUTE00142"
+    },
+    {
+        "busId": "BUS00638",
+        "driverId": "DRIVER00638",
+        "status": "active",
+        "routeId": "ROUTE00142"
+    },
+    {
+        "busId": "BUS00639",
+        "driverId": "DRIVER00639",
+        "status": "active",
+        "routeId": "ROUTE00142"
+    },
+    {
+        "busId": "BUS00640",
+        "driverId": "DRIVER00640",
+        "status": "inactive",
+        "routeId": "ROUTE00143"
+    },
+    {
+        "busId": "BUS00641",
+        "driverId": "DRIVER00641",
+        "status": "inactive",
+        "routeId": "ROUTE00143"
+    },
+    {
+        "busId": "BUS00642",
+        "driverId": "DRIVER00642",
+        "status": "inactive",
+        "routeId": "ROUTE00143"
+    },
+    {
+        "busId": "BUS00643",
+        "driverId": "DRIVER00643",
+        "status": "active",
+        "routeId": "ROUTE00143"
+    },
+    {
+        "busId": "BUS00644",
+        "driverId": "DRIVER00644",
+        "status": "active",
+        "routeId": "ROUTE00143"
+    },
+    {
+        "busId": "BUS00645",
+        "driverId": "DRIVER00645",
+        "status": "active",
+        "routeId": "ROUTE00143"
+    },
+    {
+        "busId": "BUS00646",
+        "driverId": "DRIVER00646",
+        "status": "active",
+        "routeId": "ROUTE00144"
+    },
+    {
+        "busId": "BUS00647",
+        "driverId": "DRIVER00647",
+        "status": "inactive",
+        "routeId": "ROUTE00144"
+    },
+    {
+        "busId": "BUS00648",
+        "driverId": "DRIVER00648",
+        "status": "active",
+        "routeId": "ROUTE00144"
+    },
+    {
+        "busId": "BUS00649",
+        "driverId": "DRIVER00649",
+        "status": "inactive",
+        "routeId": "ROUTE00145"
+    },
+    {
+        "busId": "BUS00650",
+        "driverId": "DRIVER00650",
+        "status": "inactive",
+        "routeId": "ROUTE00145"
+    },
+    {
+        "busId": "BUS00651",
+        "driverId": "DRIVER00651",
+        "status": "inactive",
+        "routeId": "ROUTE00145"
+    },
+    {
+        "busId": "BUS00652",
+        "driverId": "DRIVER00652",
+        "status": "active",
+        "routeId": "ROUTE00145"
+    },
+    {
+        "busId": "BUS00653",
+        "driverId": "DRIVER00653",
+        "status": "active",
+        "routeId": "ROUTE00145"
+    },
+    {
+        "busId": "BUS00654",
+        "driverId": "DRIVER00654",
+        "status": "active",
+        "routeId": "ROUTE00146"
+    },
+    {
+        "busId": "BUS00655",
+        "driverId": "DRIVER00655",
+        "status": "inactive",
+        "routeId": "ROUTE00146"
+    },
+    {
+        "busId": "BUS00656",
+        "driverId": "DRIVER00656",
+        "status": "inactive",
+        "routeId": "ROUTE00146"
+    },
+    {
+        "busId": "BUS00657",
+        "driverId": "DRIVER00657",
+        "status": "inactive",
+        "routeId": "ROUTE00146"
+    },
+    {
+        "busId": "BUS00658",
+        "driverId": "DRIVER00658",
+        "status": "inactive",
+        "routeId": "ROUTE00147"
+    },
+    {
+        "busId": "BUS00659",
+        "driverId": "DRIVER00659",
+        "status": "inactive",
+        "routeId": "ROUTE00147"
+    },
+    {
+        "busId": "BUS00660",
+        "driverId": "DRIVER00660",
+        "status": "active",
+        "routeId": "ROUTE00147"
+    },
+    {
+        "busId": "BUS00661",
+        "driverId": "DRIVER00661",
+        "status": "inactive",
+        "routeId": "ROUTE00147"
+    },
+    {
+        "busId": "BUS00662",
+        "driverId": "DRIVER00662",
+        "status": "inactive",
+        "routeId": "ROUTE00147"
+    },
+    {
+        "busId": "BUS00663",
+        "driverId": "DRIVER00663",
+        "status": "inactive",
+        "routeId": "ROUTE00147"
+    },
+    {
+        "busId": "BUS00664",
+        "driverId": "DRIVER00664",
+        "status": "inactive",
+        "routeId": "ROUTE00148"
+    },
+    {
+        "busId": "BUS00665",
+        "driverId": "DRIVER00665",
+        "status": "inactive",
+        "routeId": "ROUTE00148"
+    },
+    {
+        "busId": "BUS00666",
+        "driverId": "DRIVER00666",
+        "status": "inactive",
+        "routeId": "ROUTE00148"
+    },
+    {
+        "busId": "BUS00667",
+        "driverId": "DRIVER00667",
+        "status": "active",
+        "routeId": "ROUTE00148"
+    },
+    {
+        "busId": "BUS00668",
+        "driverId": "DRIVER00668",
+        "status": "inactive",
+        "routeId": "ROUTE00149"
+    },
+    {
+        "busId": "BUS00669",
+        "driverId": "DRIVER00669",
+        "status": "inactive",
+        "routeId": "ROUTE00149"
+    },
+    {
+        "busId": "BUS00670",
+        "driverId": "DRIVER00670",
+        "status": "active",
+        "routeId": "ROUTE00149"
+    },
+    {
+        "busId": "BUS00671",
+        "driverId": "DRIVER00671",
+        "status": "inactive",
+        "routeId": "ROUTE00149"
+    },
+    {
+        "busId": "BUS00672",
+        "driverId": "DRIVER00672",
+        "status": "active",
+        "routeId": "ROUTE00149"
+    },
+    {
+        "busId": "BUS00673",
+        "driverId": "DRIVER00673",
+        "status": "active",
+        "routeId": "ROUTE00150"
+    },
+    {
+        "busId": "BUS00674",
+        "driverId": "DRIVER00674",
+        "status": "active",
+        "routeId": "ROUTE00150"
+    },
+    {
+        "busId": "BUS00675",
+        "driverId": "DRIVER00675",
+        "status": "active",
+        "routeId": "ROUTE00150"
+    },
+    {
+        "busId": "BUS00676",
+        "driverId": "DRIVER00676",
+        "status": "active",
+        "routeId": "ROUTE00150"
+    },
+    {
+        "busId": "BUS00677",
+        "driverId": "DRIVER00677",
+        "status": "inactive",
+        "routeId": "ROUTE00150"
+    },
+    {
+        "busId": "BUS00678",
+        "driverId": "DRIVER00678",
+        "status": "inactive",
+        "routeId": "ROUTE00150"
+    },
+    {
+        "busId": "BUS00679",
+        "driverId": "DRIVER00679",
+        "status": "inactive",
+        "routeId": "ROUTE00151"
+    },
+    {
+        "busId": "BUS00680",
+        "driverId": "DRIVER00680",
+        "status": "inactive",
+        "routeId": "ROUTE00151"
+    },
+    {
+        "busId": "BUS00681",
+        "driverId": "DRIVER00681",
+        "status": "inactive",
+        "routeId": "ROUTE00151"
+    },
+    {
+        "busId": "BUS00682",
+        "driverId": "DRIVER00682",
+        "status": "active",
+        "routeId": "ROUTE00151"
+    },
+    {
+        "busId": "BUS00683",
+        "driverId": "DRIVER00683",
+        "status": "active",
+        "routeId": "ROUTE00152"
+    },
+    {
+        "busId": "BUS00684",
+        "driverId": "DRIVER00684",
+        "status": "inactive",
+        "routeId": "ROUTE00152"
+    },
+    {
+        "busId": "BUS00685",
+        "driverId": "DRIVER00685",
+        "status": "inactive",
+        "routeId": "ROUTE00152"
+    },
+    {
+        "busId": "BUS00686",
+        "driverId": "DRIVER00686",
+        "status": "active",
+        "routeId": "ROUTE00152"
+    },
+    {
+        "busId": "BUS00687",
+        "driverId": "DRIVER00687",
+        "status": "active",
+        "routeId": "ROUTE00152"
+    },
+    {
+        "busId": "BUS00688",
+        "driverId": "DRIVER00688",
+        "status": "inactive",
+        "routeId": "ROUTE00152"
+    },
+    {
+        "busId": "BUS00689",
+        "driverId": "DRIVER00689",
+        "status": "inactive",
+        "routeId": "ROUTE00153"
+    },
+    {
+        "busId": "BUS00690",
+        "driverId": "DRIVER00690",
+        "status": "active",
+        "routeId": "ROUTE00153"
+    },
+    {
+        "busId": "BUS00691",
+        "driverId": "DRIVER00691",
+        "status": "inactive",
+        "routeId": "ROUTE00153"
+    },
+    {
+        "busId": "BUS00692",
+        "driverId": "DRIVER00692",
+        "status": "inactive",
+        "routeId": "ROUTE00153"
+    },
+    {
+        "busId": "BUS00693",
+        "driverId": "DRIVER00693",
+        "status": "active",
+        "routeId": "ROUTE00154"
+    },
+    {
+        "busId": "BUS00694",
+        "driverId": "DRIVER00694",
+        "status": "inactive",
+        "routeId": "ROUTE00154"
+    },
+    {
+        "busId": "BUS00695",
+        "driverId": "DRIVER00695",
+        "status": "active",
+        "routeId": "ROUTE00154"
+    },
+    {
+        "busId": "BUS00696",
+        "driverId": "DRIVER00696",
+        "status": "inactive",
+        "routeId": "ROUTE00154"
+    },
+    {
+        "busId": "BUS00697",
+        "driverId": "DRIVER00697",
+        "status": "inactive",
+        "routeId": "ROUTE00155"
+    },
+    {
+        "busId": "BUS00698",
+        "driverId": "DRIVER00698",
+        "status": "active",
+        "routeId": "ROUTE00155"
+    },
+    {
+        "busId": "BUS00699",
+        "driverId": "DRIVER00699",
+        "status": "inactive",
+        "routeId": "ROUTE00155"
+    },
+    {
+        "busId": "BUS00700",
+        "driverId": "DRIVER00700",
+        "status": "active",
+        "routeId": "ROUTE00155"
+    },
+    {
+        "busId": "BUS00701",
+        "driverId": "DRIVER00701",
+        "status": "active",
+        "routeId": "ROUTE00155"
+    },
+    {
+        "busId": "BUS00702",
+        "driverId": "DRIVER00702",
+        "status": "active",
+        "routeId": "ROUTE00156"
+    },
+    {
+        "busId": "BUS00703",
+        "driverId": "DRIVER00703",
+        "status": "active",
+        "routeId": "ROUTE00156"
+    },
+    {
+        "busId": "BUS00704",
+        "driverId": "DRIVER00704",
+        "status": "active",
+        "routeId": "ROUTE00156"
+    },
+    {
+        "busId": "BUS00705",
+        "driverId": "DRIVER00705",
+        "status": "inactive",
+        "routeId": "ROUTE00156"
+    },
+    {
+        "busId": "BUS00706",
+        "driverId": "DRIVER00706",
+        "status": "inactive",
+        "routeId": "ROUTE00156"
+    },
+    {
+        "busId": "BUS00707",
+        "driverId": "DRIVER00707",
+        "status": "active",
+        "routeId": "ROUTE00157"
+    },
+    {
+        "busId": "BUS00708",
+        "driverId": "DRIVER00708",
+        "status": "active",
+        "routeId": "ROUTE00157"
+    },
+    {
+        "busId": "BUS00709",
+        "driverId": "DRIVER00709",
+        "status": "inactive",
+        "routeId": "ROUTE00157"
+    },
+    {
+        "busId": "BUS00710",
+        "driverId": "DRIVER00710",
+        "status": "active",
+        "routeId": "ROUTE00158"
+    },
+    {
+        "busId": "BUS00711",
+        "driverId": "DRIVER00711",
+        "status": "inactive",
+        "routeId": "ROUTE00158"
+    },
+    {
+        "busId": "BUS00712",
+        "driverId": "DRIVER00712",
+        "status": "inactive",
+        "routeId": "ROUTE00158"
+    },
+    {
+        "busId": "BUS00713",
+        "driverId": "DRIVER00713",
+        "status": "inactive",
+        "routeId": "ROUTE00158"
+    },
+    {
+        "busId": "BUS00714",
+        "driverId": "DRIVER00714",
+        "status": "active",
+        "routeId": "ROUTE00158"
+    },
+    {
+        "busId": "BUS00715",
+        "driverId": "DRIVER00715",
+        "status": "active",
+        "routeId": "ROUTE00158"
+    },
+    {
+        "busId": "BUS00716",
+        "driverId": "DRIVER00716",
+        "status": "inactive",
+        "routeId": "ROUTE00159"
+    },
+    {
+        "busId": "BUS00717",
+        "driverId": "DRIVER00717",
+        "status": "inactive",
+        "routeId": "ROUTE00159"
+    },
+    {
+        "busId": "BUS00718",
+        "driverId": "DRIVER00718",
+        "status": "active",
+        "routeId": "ROUTE00159"
+    },
+    {
+        "busId": "BUS00719",
+        "driverId": "DRIVER00719",
+        "status": "active",
+        "routeId": "ROUTE00160"
+    },
+    {
+        "busId": "BUS00720",
+        "driverId": "DRIVER00720",
+        "status": "inactive",
+        "routeId": "ROUTE00160"
+    },
+    {
+        "busId": "BUS00721",
+        "driverId": "DRIVER00721",
+        "status": "active",
+        "routeId": "ROUTE00160"
+    },
+    {
+        "busId": "BUS00722",
+        "driverId": "DRIVER00722",
+        "status": "inactive",
+        "routeId": "ROUTE00160"
+    },
+    {
+        "busId": "BUS00723",
+        "driverId": "DRIVER00723",
+        "status": "inactive",
+        "routeId": "ROUTE00160"
+    },
+    {
+        "busId": "BUS00724",
+        "driverId": "DRIVER00724",
+        "status": "inactive",
+        "routeId": "ROUTE00160"
+    },
+    {
+        "busId": "BUS00725",
+        "driverId": "DRIVER00725",
+        "status": "active",
+        "routeId": "ROUTE00161"
+    },
+    {
+        "busId": "BUS00726",
+        "driverId": "DRIVER00726",
+        "status": "inactive",
+        "routeId": "ROUTE00161"
+    },
+    {
+        "busId": "BUS00727",
+        "driverId": "DRIVER00727",
+        "status": "inactive",
+        "routeId": "ROUTE00161"
+    },
+    {
+        "busId": "BUS00728",
+        "driverId": "DRIVER00728",
+        "status": "inactive",
+        "routeId": "ROUTE00161"
+    },
+    {
+        "busId": "BUS00729",
+        "driverId": "DRIVER00729",
+        "status": "inactive",
+        "routeId": "ROUTE00161"
+    },
+    {
+        "busId": "BUS00730",
+        "driverId": "DRIVER00730",
+        "status": "active",
+        "routeId": "ROUTE00161"
+    },
+    {
+        "busId": "BUS00731",
+        "driverId": "DRIVER00731",
+        "status": "inactive",
+        "routeId": "ROUTE00162"
+    },
+    {
+        "busId": "BUS00732",
+        "driverId": "DRIVER00732",
+        "status": "inactive",
+        "routeId": "ROUTE00162"
+    },
+    {
+        "busId": "BUS00733",
+        "driverId": "DRIVER00733",
+        "status": "active",
+        "routeId": "ROUTE00162"
+    },
+    {
+        "busId": "BUS00734",
+        "driverId": "DRIVER00734",
+        "status": "active",
+        "routeId": "ROUTE00162"
+    },
+    {
+        "busId": "BUS00735",
+        "driverId": "DRIVER00735",
+        "status": "active",
+        "routeId": "ROUTE00162"
+    },
+    {
+        "busId": "BUS00736",
+        "driverId": "DRIVER00736",
+        "status": "inactive",
+        "routeId": "ROUTE00163"
+    },
+    {
+        "busId": "BUS00737",
+        "driverId": "DRIVER00737",
+        "status": "active",
+        "routeId": "ROUTE00163"
+    },
+    {
+        "busId": "BUS00738",
+        "driverId": "DRIVER00738",
+        "status": "inactive",
+        "routeId": "ROUTE00163"
+    },
+    {
+        "busId": "BUS00739",
+        "driverId": "DRIVER00739",
+        "status": "inactive",
+        "routeId": "ROUTE00163"
+    },
+    {
+        "busId": "BUS00740",
+        "driverId": "DRIVER00740",
+        "status": "inactive",
+        "routeId": "ROUTE00163"
+    },
+    {
+        "busId": "BUS00741",
+        "driverId": "DRIVER00741",
+        "status": "active",
+        "routeId": "ROUTE00164"
+    },
+    {
+        "busId": "BUS00742",
+        "driverId": "DRIVER00742",
+        "status": "active",
+        "routeId": "ROUTE00164"
+    },
+    {
+        "busId": "BUS00743",
+        "driverId": "DRIVER00743",
+        "status": "inactive",
+        "routeId": "ROUTE00164"
+    },
+    {
+        "busId": "BUS00744",
+        "driverId": "DRIVER00744",
+        "status": "active",
+        "routeId": "ROUTE00164"
+    },
+    {
+        "busId": "BUS00745",
+        "driverId": "DRIVER00745",
+        "status": "active",
+        "routeId": "ROUTE00165"
+    },
+    {
+        "busId": "BUS00746",
+        "driverId": "DRIVER00746",
+        "status": "inactive",
+        "routeId": "ROUTE00165"
+    },
+    {
+        "busId": "BUS00747",
+        "driverId": "DRIVER00747",
+        "status": "inactive",
+        "routeId": "ROUTE00165"
+    },
+    {
+        "busId": "BUS00748",
+        "driverId": "DRIVER00748",
+        "status": "inactive",
+        "routeId": "ROUTE00165"
+    },
+    {
+        "busId": "BUS00749",
+        "driverId": "DRIVER00749",
+        "status": "inactive",
+        "routeId": "ROUTE00165"
+    },
+    {
+        "busId": "BUS00750",
+        "driverId": "DRIVER00750",
+        "status": "active",
+        "routeId": "ROUTE00165"
+    }
+]
