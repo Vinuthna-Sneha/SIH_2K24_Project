@@ -1,0 +1,177 @@
+[
+    {
+        "scheduleId": "SCHEDULE-001",
+        "startTime": "09:00 AM",
+        "endTime": "10:00 AM",
+        "routeId": "ROUTE-001",
+        "busId": "BUS-001"
+    },
+    {
+        "scheduleId": "SCHEDULE-002",
+        "startTime": "09:05 AM",
+        "endTime": "10:05 AM",
+        "routeId": "ROUTE-001",
+        "busId": "BUS-002"
+    },
+    {
+        "scheduleId": "SCHEDULE-003",
+        "startTime": "09:10 AM",
+        "endTime": "10:10 AM",
+        "routeId": "ROUTE-002",
+        "busId": "BUS-003"
+    },
+    {
+        "scheduleId": "SCHEDULE-004",
+        "startTime": "09:15 AM",
+        "endTime": "10:15 AM",
+        "routeId": "ROUTE-002",
+        "busId": "BUS-004"
+    },
+    {
+        "scheduleId": "SCHEDULE-005",
+        "startTime": "09:20 AM",
+        "endTime": "10:20 AM",
+        "routeId": "ROUTE-003",
+        "busId": "BUS-005"
+    },
+    {
+        "scheduleId": "SCHEDULE-006",
+        "startTime": "09:25 AM",
+        "endTime": "10:25 AM",
+        "routeId": "ROUTE-003",
+        "busId": "BUS-006"
+    },
+    {
+        "scheduleId": "SCHEDULE-007",
+        "startTime": "09:30 AM",
+        "endTime": "10:30 AM",
+        "routeId": "ROUTE-004",
+        "busId": "BUS-007"
+    },
+    {
+        "scheduleId": "SCHEDULE-008",
+        "startTime": "09:35 AM",
+        "endTime": "10:35 AM",
+        "routeId": "ROUTE-004",
+        "busId": "BUS-008"
+    },
+    {
+        "scheduleId": "SCHEDULE-009",
+        "startTime": "09:40 AM",
+        "endTime": "10:40 AM",
+        "routeId": "ROUTE-005",
+        "busId": "BUS-009"
+    },
+    {
+        "scheduleId": "SCHEDULE-010",
+        "startTime": "09:45 AM",
+        "endTime": "10:45 AM",
+        "routeId": "ROUTE-005",
+        "busId": "BUS-010"
+    },
+    {
+        "scheduleId": "SCHEDULE-011",
+        "startTime": "09:50 AM",
+        "endTime": "10:50 AM",
+        "routeId": "ROUTE-006",
+        "busId": "BUS-011"
+    },
+    {
+        "scheduleId": "SCHEDULE-012",
+        "startTime": "09:55 AM",
+        "endTime": "10:55 AM",
+        "routeId": "ROUTE-006",
+        "busId": "BUS-012"
+    },
+    {
+        "scheduleId": "SCHEDULE-013",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "routeId": "ROUTE-007",
+        "busId": "BUS-013"
+    },
+    {
+        "scheduleId": "SCHEDULE-014",
+        "startTime": "10:05 AM",
+        "endTime": "11:05 AM",
+        "routeId": "ROUTE-007",
+        "busId": "BUS-014"
+    },
+    {
+        "scheduleId": "SCHEDULE-015",
+        "startTime": "10:10 AM",
+        "endTime": "11:10 AM",
+        "routeId": "ROUTE-008",
+        "busId": "BUS-015"
+    },
+    {
+        "scheduleId": "SCHEDULE-016",
+        "startTime": "10:15 AM",
+        "endTime": "11:15 AM",
+        "routeId": "ROUTE-009",
+        "busId": "BUS-016"
+    },
+    {
+        "scheduleId": "SCHEDULE-017",
+        "startTime": "10:20 AM",
+        "endTime": "11:20 AM",
+        "routeId": "ROUTE-009",
+        "busId": "BUS-017"
+    },
+    {
+        "scheduleId": "SCHEDULE-018",
+        "startTime": "10:25 AM",
+        "endTime": "11:25 AM",
+        "routeId": "ROUTE-010",
+        "busId": "BUS-018"
+    },
+    {
+        "scheduleId": "SCHEDULE-019",
+        "startTime": "10:30 AM",
+        "endTime": "11:30 AM",
+        "routeId": "ROUTE-010",
+        "busId": "BUS-019"
+    },
+    {
+        "scheduleId": "SCHEDULE-020",
+        "startTime": "10:35 AM",
+        "endTime": "11:35 AM",
+        "routeId": "ROUTE-011",
+        "busId": "BUS-020"
+    },
+    {
+        "scheduleId": "SCHEDULE-021",
+        "startTime": "10:40 AM",
+        "endTime": "11:40 AM",
+        "routeId": "ROUTE-011",
+        "busId": "BUS-021"
+    },
+    {
+        "scheduleId": "SCHEDULE-022",
+        "startTime": "10:45 AM",
+        "endTime": "11:45 AM",
+        "routeId": "ROUTE-012",
+        "busId": "BUS-022"
+    },
+    {
+        "scheduleId": "SCHEDULE-023",
+        "startTime": "10:50 AM",
+        "endTime": "11:50 AM",
+        "routeId": "ROUTE-012",
+        "busId": "BUS-023"
+    },
+    {
+        "scheduleId": "SCHEDULE-024",
+        "startTime": "10:55 AM",
+        "endTime": "11:55 AM",
+        "routeId": "ROUTE-013",
+        "busId": "BUS-024"
+    },
+    {
+        "scheduleId": "SCHEDULE-025",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "routeId": "ROUTE-013",
+        "busId": "BUS-025"
+    }
+]

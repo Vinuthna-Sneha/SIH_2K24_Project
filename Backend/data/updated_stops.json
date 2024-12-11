@@ -1,0 +1,202 @@
+[
+    {
+        "stopId": "STOP-001",
+        "stopName": "Connaught Place Bus Stop",
+        "sequenceNumber": 1,
+        "latitude": 28.6305,
+        "longitude": 77.2187,
+        "routeId": "ROUTE-001"
+    },
+    {
+        "stopId": "STOP-002",
+        "stopName": "Saket Bus Stop Station",
+        "sequenceNumber": 2,
+        "latitude": 28.5535,
+        "longitude": 77.2503,
+        "routeId": "ROUTE-001"
+    },
+    {
+        "stopId": "STOP-003",
+        "stopName": "Rajiv Chowk Bus Stop",
+        "sequenceNumber": 1,
+        "latitude": 28.6303,
+        "longitude": 77.2193,
+        "routeId": "ROUTE-002"
+    },
+    {
+        "stopId": "STOP-004",
+        "stopName": "Dwarka Sector 21 Bus Stop",
+        "sequenceNumber": 2,
+        "latitude": 28.5896,
+        "longitude": 77.0236,
+        "routeId": "ROUTE-002"
+    },
+    {
+        "stopId": "STOP-005",
+        "stopName": "Karol Bagh Bus Stop",
+        "sequenceNumber": 1,
+        "latitude": 28.6403,
+        "longitude": 77.1989,
+        "routeId": "ROUTE-003"
+    },
+    {
+        "stopId": "STOP-006",
+        "stopName": "Lajpat Nagar Bus Stop",
+        "sequenceNumber": 2,
+        "latitude": 28.5746,
+        "longitude": 77.2448,
+        "routeId": "ROUTE-003"
+    },
+    {
+        "stopId": "STOP-007",
+        "stopName": "Chandni Chowk Bus Stop",
+        "sequenceNumber": 1,
+        "latitude": 28.6541,
+        "longitude": 77.2295,
+        "routeId": "ROUTE-004"
+    },
+    {
+        "stopId": "STOP-008",
+        "stopName": "Mayur Vihar Bus Stop",
+        "sequenceNumber": 2,
+        "latitude": 28.5582,
+        "longitude": 77.2966,
+        "routeId": "ROUTE-004"
+    },
+    {
+        "stopId": "STOP-009",
+        "stopName": "Azadpur Bus Stop",
+        "sequenceNumber": 1,
+        "latitude": 28.681,
+        "longitude": 77.1669,
+        "routeId": "ROUTE-005"
+    },
+    {
+        "stopId": "STOP-010",
+        "stopName": "Vasant Kunj",
+        "sequenceNumber": 2,
+        "latitude": 28.558,
+        "longitude": 77.1352,
+        "routeId": "ROUTE-005"
+    },
+    {
+        "stopId": "STOP-011",
+        "stopName": "Indraprastha",
+        "sequenceNumber": 1,
+        "latitude": 28.616,
+        "longitude": 77.2823,
+        "routeId": "ROUTE-006"
+    },
+    {
+        "stopId": "STOP-012",
+        "stopName": "Dwarka Sector 21",
+        "sequenceNumber": 2,
+        "latitude": 28.5896,
+        "longitude": 77.0236,
+        "routeId": "ROUTE-006"
+    },
+    {
+        "stopId": "STOP-013",
+        "stopName": "Delhi University",
+        "sequenceNumber": 1,
+        "latitude": 28.6448,
+        "longitude": 77.217,
+        "routeId": "ROUTE-007"
+    },
+    {
+        "stopId": "STOP-014",
+        "stopName": "Connaught Place",
+        "sequenceNumber": 2,
+        "latitude": 28.6305,
+        "longitude": 77.2187,
+        "routeId": "ROUTE-007"
+    },
+    {
+        "stopId": "STOP-015",
+        "stopName": "Mandi House",
+        "sequenceNumber": 1,
+        "latitude": 28.6184,
+        "longitude": 77.224,
+        "routeId": "ROUTE-008"
+    },
+    {
+        "stopId": "STOP-016",
+        "stopName": "Rajouri Garden Bus Stop",
+        "sequenceNumber": 1,
+        "latitude": 28.6501,
+        "longitude": 77.1239,
+        "routeId": "ROUTE-009"
+    },
+    {
+        "stopId": "STOP-017",
+        "stopName": "Vikramshila Bus Stop",
+        "sequenceNumber": 2,
+        "latitude": 28.6825,
+        "longitude": 77.1195,
+        "routeId": "ROUTE-009"
+    },
+    {
+        "stopId": "STOP-018",
+        "stopName": "Nehru Place Bus Stop",
+        "sequenceNumber": 1,
+        "latitude": 28.5489,
+        "longitude": 77.2514,
+        "routeId": "ROUTE-010"
+    },
+    {
+        "stopId": "STOP-019",
+        "stopName": "Pitampura Bus Stop",
+        "sequenceNumber": 2,
+        "latitude": 28.696,
+        "longitude": 77.1411,
+        "routeId": "ROUTE-010"
+    },
+    {
+        "stopId": "STOP-020",
+        "stopName": "Rajiv Chowk Bus Stop",
+        "sequenceNumber": 1,
+        "latitude": 28.6329,
+        "longitude": 77.2197,
+        "routeId": "ROUTE-011"
+    },
+    {
+        "stopId": "STOP-021",
+        "stopName": "Dwarka Sector 21 Bus Stop",
+        "sequenceNumber": 2,
+        "latitude": 28.5885,
+        "longitude": 77.0218,
+        "routeId": "ROUTE-011"
+    },
+    {
+        "stopId": "STOP-022",
+        "stopName": "Kalkaji Mandir Bus Stop",
+        "sequenceNumber": 1,
+        "latitude": 28.5478,
+        "longitude": 77.259,
+        "routeId": "ROUTE-012"
+    },
+    {
+        "stopId": "STOP-023",
+        "stopName": "Connaught Place Bus Stop",
+        "sequenceNumber": 2,
+        "latitude": 28.6305,
+        "longitude": 77.2187,
+        "routeId": "ROUTE-012"
+    },
+    {
+        "stopId": "STOP-024",
+        "stopName": "Delhi Cantt Bus Stop",
+        "sequenceNumber": 1,
+        "latitude": 28.6139,
+        "longitude": 77.1733,
+        "routeId": "ROUTE-013"
+    },
+    {
+        "stopId": "STOP-025",
+        "stopName": "Saket Bus Stop Station",
+        "sequenceNumber": 2,
+        "latitude": 28.5535,
+        "longitude": 77.2503,
+        "routeId": "ROUTE-013"
+    }
+]

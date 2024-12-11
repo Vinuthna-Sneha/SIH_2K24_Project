@@ -1,0 +1,17 @@
+[
+  { "routeId": "ROUTE-001", "routeName": "Connaught Place to Saket", "startStop": "Connaught Place", "endStop": "Saket" },
+  { "routeId": "ROUTE-002", "routeName": "Rajiv Chowk to Dwarka", "startStop": "Rajiv Chowk", "endStop": "Dwarka" },
+  { "routeId": "ROUTE-003", "routeName": "Karol Bagh to Lajpat Nagar", "startStop": "Karol Bagh", "endStop": "Lajpat Nagar" },
+  { "routeId": "ROUTE-004", "routeName": "Chandni Chowk to Mayur Vihar", "startStop": "Chandni Chowk", "endStop": "Mayur Vihar" },
+  { "routeId": "ROUTE-005", "routeName": "Azadpur to Vasant Kunj", "startStop": "Azadpur", "endStop": "Vasant Kunj" },
+  { "routeId": "ROUTE-006", "routeName": "Indraprastha to Dwarka Sector 21", "startStop": "Indraprastha", "endStop": "Dwarka Sector 21" },
+  { "routeId": "ROUTE-007", "routeName": "Delhi University to Connaught Place", "startStop": "Delhi University", "endStop": "Connaught Place" },
+  { "routeId": "ROUTE-008", "routeName": "Mandi House to Anand Vihar", "startStop": "Mandi House", "endStop": "Anand Vihar" },
+  { "routeId": "ROUTE-009", "routeName": "Vikramshila Metro to Rajouri Garden", "startStop": "Vikramshila Metro", "endStop": "Rajouri Garden" },
+  { "routeId": "ROUTE-010", "routeName": "Pitampura to Nehru Place", "startStop": "Pitampura", "endStop": "Nehru Place" },
+  { "routeId": "ROUTE-011", "routeName": "Dwarka Sector 21 to Rajiv Chowk", "startStop": "Dwarka Sector 21", "endStop": "Rajiv Chowk" },
+  { "routeId": "ROUTE-012", "routeName": "Karol Bagh to Connaught Place", "startStop": "Karol Bagh", "endStop": "Connaught Place" },
+  { "routeId": "ROUTE-013", "routeName": "Chandni Chowk to Rajendra Place", "startStop": "Chandni Chowk", "endStop": "Rajendra Place" },
+  { "routeId": "ROUTE-014", "routeName": "Saket to Lajpat Nagar", "startStop": "Saket", "endStop": "Lajpat Nagar" },
+  { "routeId": "ROUTE-015", "routeName": "Mandi House to Kalkaji", "startStop": "Mandi House", "endStop": "Kalkaji" }
+]

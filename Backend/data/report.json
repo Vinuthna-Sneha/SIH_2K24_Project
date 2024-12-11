@@ -1,0 +1,111 @@
+{
+  
+    {
+       "inputs"
+         {
+          "Type": "Road block" , 
+          "schedule_id": 1,
+          "current_latitude": 20.1234,
+          "current_longitude": 85.6789,
+          "scheduled_latitude": 20.1240, 
+          "scheduled_longitude": 85.6790, 
+          "reported_by": "passenger",
+          "report_type": "Road block",
+          "report_location_latitude": 20.1250,
+          "report_location_longitude": 85.6795
+        }
+      } 
+    {
+      "outputs"
+        {
+          "estimated_delay_minutes": 15,
+          "suggestions": [
+          "Slow down to avoid further congestion",
+          "Maintain current speed unless traffic clears up"
+        ]
+      }
+  }
+}
+{
+  
+    { "inputs"
+      {
+        "Type": "Accident"  , 
+        "schedule_id": 002,
+        "current_latitude": 20.1235,
+        "current_longitude": 85.6787,
+        "scheduled_latitude": 20.1242,
+        "scheduled_longitude": 85.6793,
+        "reported_by": "passenger",
+        "report_type": "Accident",
+        "report_location_latitude": 20.1245,
+        "report_location_longitude": 85.6800
+      }           
+    }
+    {
+      "outputs"
+      {
+        {
+          "estimated_delay_minutes": 30,
+          "suggestions": ["Accident reported ahead.  Please consider alternative route A to B via c"]  
+        }           
+      }
+    }
+}
+{
+ 
+    { "inputs"
+      {
+         "Type": " Malfunctioning of bus"  , 
+        "schedule_id": 003,
+        "current_latitude": 20.1236,
+        "current_longitude": 85.6788,
+        "scheduled_latitude": 20.1241,
+        "scheduled_longitude": 85.6792,
+        "reported_by": "driver",
+        "report_type": "Malfunctioning of bus",
+        "report_location_latitude": 20.1243,
+        "report_location_longitude": 85.6798
+      }           
+    }
+    {
+      "outputs"
+      {
+        {
+          "estimated_delay_minutes": 25,
+          "suggestions": {
+            "message": "Bus malfunction reported ahead. Advise being cautious and monitoring traffic updates for route adjustments."
+          }
+        }
+      }
+    }
+  }
+{ 
+  
+  {
+  "inputs"
+  {
+    "Type": " Heavy Traffic" , 
+    "schedule_id": 004,
+    "current_latitude": 20.1237,
+    "current_longitude": 85.6786,
+    "scheduled_latitude": 20.1244,
+    "scheduled_longitude": 85.6791,
+    "reported_by": "passenger",
+    "report_type": "Heavy traffic",
+    "report_location_latitude": 20.1247,
+    "report_location_longitude": 85.6802
+  }
+  }
+  {
+    "outputs"
+    {
+    "estimated_delay_minutes": 15,
+    "suggestions": [
+      "Maintain current speed unless traffic clears up",
+      "Be prepared to slow down if congestion worsens"
+    ]
+    }
+  }
+}
+    

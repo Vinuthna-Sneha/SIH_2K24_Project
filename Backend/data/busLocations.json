@@ -1,0 +1,17 @@
+[
+  { "locationId": "LOC-001", "latitude": 28.6305, "longitude": 77.2187, "timestamp": "2024-11-23T09:00:00Z", "nearestStopId": "STOP-001", "scheduleId": "SCHEDULE-001", "startTime": "09:00 AM" },
+  { "locationId": "LOC-002", "latitude": 28.5535, "longitude": 77.2503, "timestamp": "2024-11-23T09:05:00Z", "nearestStopId": "STOP-002", "scheduleId": "SCHEDULE-002", "startTime": "09:05 AM" },
+  { "locationId": "LOC-003", "latitude": 28.6303, "longitude": 77.2193, "timestamp": "2024-11-23T09:10:00Z", "nearestStopId": "STOP-003", "scheduleId": "SCHEDULE-003", "startTime": "09:10 AM" },
+  { "locationId": "LOC-004", "latitude": 28.5896, "longitude": 77.0236, "timestamp": "2024-11-23T09:15:00Z", "nearestStopId": "STOP-004", "scheduleId": "SCHEDULE-004", "startTime": "09:15 AM" },
+  { "locationId": "LOC-005", "latitude": 28.6403, "longitude": 77.1989, "timestamp": "2024-11-23T09:20:00Z", "nearestStopId": "STOP-005", "scheduleId": "SCHEDULE-005", "startTime": "09:20 AM" },
+  { "locationId": "LOC-006", "latitude": 28.5746, "longitude": 77.2448, "timestamp": "2024-11-23T09:25:00Z", "nearestStopId": "STOP-006", "scheduleId": "SCHEDULE-006", "startTime": "09:25 AM" },
+  { "locationId": "LOC-007", "latitude": 28.6541, "longitude": 77.2295, "timestamp": "2024-11-23T09:30:00Z", "nearestStopId": "STOP-007", "scheduleId": "SCHEDULE-007", "startTime": "09:30 AM" },
+  { "locationId": "LOC-008", "latitude": 28.5582, "longitude": 77.2966, "timestamp": "2024-11-23T09:35:00Z", "nearestStopId": "STOP-008", "scheduleId": "SCHEDULE-008", "startTime": "09:35 AM" },
+  { "locationId": "LOC-009", "latitude": 28.6810, "longitude": 77.1669, "timestamp": "2024-11-23T09:40:00Z", "nearestStopId": "STOP-009", "scheduleId": "SCHEDULE-009", "startTime": "09:40 AM" },
+  { "locationId": "LOC-010", "latitude": 28.5580, "longitude": 77.1352, "timestamp": "2024-11-23T09:45:00Z", "nearestStopId": "STOP-010", "scheduleId": "SCHEDULE-010", "startTime": "09:45 AM" },
+  { "locationId": "LOC-011", "latitude": 28.6160, "longitude": 77.2823, "timestamp": "2024-11-23T09:50:00Z", "nearestStopId": "STOP-011", "scheduleId": "SCHEDULE-011", "startTime": "09:50 AM" },
+  { "locationId": "LOC-012", "latitude": 28.5896, "longitude": 77.0236, "timestamp": "2024-11-23T09:55:00Z", "nearestStopId": "STOP-012", "scheduleId": "SCHEDULE-012", "startTime": "09:55 AM" },
+  { "locationId": "LOC-013", "latitude": 28.6448, "longitude": 77.2170, "timestamp": "2024-11-23T10:00:00Z", "nearestStopId": "STOP-013", "scheduleId": "SCHEDULE-013", "startTime": "10:00 AM" },
+  { "locationId": "LOC-014", "latitude": 28.6305, "longitude": 77.2187, "timestamp": "2024-11-23T10:05:00Z", "nearestStopId": "STOP-014", "scheduleId": "SCHEDULE-014", "startTime": "10:05 AM" },
+  { "locationId": "LOC-015", "latitude": 28.6184, "longitude": 77.2240, "timestamp": "2024-11-23T10:10:00Z", "nearestStopId": "STOP-015", "scheduleId": "SCHEDULE-015", "startTime": "10:10 AM" }
+]

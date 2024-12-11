@@ -1,0 +1,17 @@
+[
+  { "stopId": "STOP-001", "stopName": "Connaught Place Metro", "sequenceNumber": 1, "latitude": 28.6305, "longitude": 77.2187, "routeId": "ROUTE-001" },
+  { "stopId": "STOP-002", "stopName": "Saket Metro Station", "sequenceNumber": 2, "latitude": 28.5535, "longitude": 77.2503, "routeId": "ROUTE-001" },
+  { "stopId": "STOP-003", "stopName": "Rajiv Chowk Metro", "sequenceNumber": 1, "latitude": 28.6303, "longitude": 77.2193, "routeId": "ROUTE-002" },
+  { "stopId": "STOP-004", "stopName": "Dwarka Sector 21 Metro", "sequenceNumber": 2, "latitude": 28.5896, "longitude": 77.0236, "routeId": "ROUTE-002" },
+  { "stopId": "STOP-005", "stopName": "Karol Bagh Metro", "sequenceNumber": 1, "latitude": 28.6403, "longitude": 77.1989, "routeId": "ROUTE-003" },
+  { "stopId": "STOP-006", "stopName": "Lajpat Nagar Metro", "sequenceNumber": 2, "latitude": 28.5746, "longitude": 77.2448, "routeId": "ROUTE-003" },
+  { "stopId": "STOP-007", "stopName": "Chandni Chowk Metro", "sequenceNumber": 1, "latitude": 28.6541, "longitude": 77.2295, "routeId": "ROUTE-004" },
+  { "stopId": "STOP-008", "stopName": "Mayur Vihar Metro", "sequenceNumber": 2, "latitude": 28.5582, "longitude": 77.2966, "routeId": "ROUTE-004" },
+  { "stopId": "STOP-009", "stopName": "Azadpur Metro", "sequenceNumber": 1, "latitude": 28.6810, "longitude": 77.1669, "routeId": "ROUTE-005" },
+  { "stopId": "STOP-010", "stopName": "Vasant Kunj", "sequenceNumber": 2, "latitude": 28.5580, "longitude": 77.1352, "routeId": "ROUTE-005" },
+  { "stopId": "STOP-011", "stopName": "Indraprastha", "sequenceNumber": 1, "latitude": 28.6160, "longitude": 77.2823, "routeId": "ROUTE-006" },
+  { "stopId": "STOP-012", "stopName": "Dwarka Sector 21", "sequenceNumber": 2, "latitude": 28.5896, "longitude": 77.0236, "routeId": "ROUTE-006" },
+  { "stopId": "STOP-013", "stopName": "Delhi University", "sequenceNumber": 1, "latitude": 28.6448, "longitude": 77.2170, "routeId": "ROUTE-007" },
+  { "stopId": "STOP-014", "stopName": "Connaught Place", "sequenceNumber": 2, "latitude": 28.6305, "longitude": 77.2187, "routeId": "ROUTE-007" },
+  { "stopId": "STOP-015", "stopName": "Mandi House", "sequenceNumber": 1, "latitude": 28.6184, "longitude": 77.2240, "routeId": "ROUTE-008" }
+]
