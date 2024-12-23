@@ -56,14 +56,24 @@ Delhi Bus Management is a Flutter-based mobile application designed to enhance t
    - Respond to notifications regarding delays or issues.
 
 ## Screenshots
-
-![bb1](https://github.com/user-attachments/assets/2828cc1b-d281-462e-85c2-55ec5d761df5)
-![bb2](https://github.com/user-attachments/assets/badfae98-2fc9-4f0c-829c-9c4d6d939ba6)
-![bb3](https://github.com/user-attachments/assets/e95f55db-7537-4c53-85b7-d78d26e6966a)
-![bb4](https://github.com/user-attachments/assets/a3b5340d-1d9f-4209-8fdd-718bad7b6d5b)
-![bb5](https://github.com/user-attachments/assets/b45c178b-5e62-4242-8cc3-e4e833773894)
-![bb6](https://github.com/user-attachments/assets/dcc1f1bb-9ac9-4324-94a3-9cfa2f3c86ec)
-![bb7](https://github.com/user-attachments/assets/cb63ea35-26d8-4282-8f88-559b4e5b054c)
+<!-- Using a table for better organization and responsiveness -->
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/2828cc1b-d281-462e-85c2-55ec5d761df5" alt="Screenshot 1" width="200"></td>
+<td><img src="https://github.com/user-attachments/assets/badfae98-2fc9-4f0c-829c-9c4d6d939ba6" alt="Screenshot 2" width="200"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/e95f55db-7537-4c53-85b7-d78d26e6966a" alt="Screenshot 3" width="200"></td>
+<td><img src="https://github.com/user-attachments/assets/a3b5340d-1d9f-4209-8fdd-718bad7b6d5b" alt="Screenshot 4" width="200"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/b45c178b-5e62-4242-8cc3-e4e833773894" alt="Screenshot 5" width="200"></td>
+<td><img src="https://github.com/user-attachments/assets/dcc1f1bb-9ac9-4324-94a3-9cfa2f3c86ec" alt="Screenshot 6" width="200"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/cb63ea35-26d8-4282-8f88-559b4e5b054c" alt="Screenshot 7" width="200"></td>
+</tr>
+</table>
 
 
 ## Contributing
