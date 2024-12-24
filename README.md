@@ -1,5 +1,3 @@
-The README file for the Delhi Bus Management app has been created. Let me know if you'd like to make any modifications or additions!
-
 # Delhi Bus Management
 
 Delhi Bus Management is a Flutter-based mobile application designed to enhance the public transportation experience for both passengers and drivers. The app provides real-time updates, issue reporting, and delay notifications to improve efficiency and communication.
@@ -18,9 +16,9 @@ Delhi Bus Management is a Flutter-based mobile application designed to enhance t
 
 ## Technology Stack
 - **Frontend**: Flutter (Dart)
-- **Backend**: To be determined (e.g., Firebase, Node.js, or any REST API backend)
-- **Database**: To be determined (e.g., Firestore, MongoDB, or SQL database)
-
+- **Backend**: Node.js, Flask (for model integration)
+- **Database**: MongoDB, Kafka (for continuous read/write operations)
+  
 ## Installation Guide
 
 ### Prerequisites
@@ -56,9 +54,28 @@ Delhi Bus Management is a Flutter-based mobile application designed to enhance t
    - Launch the app and select the `Driver` role.
    - Receive real-time notifications and location updates.
    - Respond to notifications regarding delays or issues.
+   - Get updates on roadblocks and suggested alternate routes optimized based on the drop-off points of passengers, ensuring maximum satisfaction and efficiency.
 
 ## Screenshots
-(Include app screenshots here to showcase the UI/UX.)
+<!-- Using a table for better organization and responsiveness -->
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/2828cc1b-d281-462e-85c2-55ec5d761df5" alt="Screenshot 1" width="200"></td>
+<td><img src="https://github.com/user-attachments/assets/badfae98-2fc9-4f0c-829c-9c4d6d939ba6" alt="Screenshot 2" width="200"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/e95f55db-7537-4c53-85b7-d78d26e6966a" alt="Screenshot 3" width="200"></td>
+<td><img src="https://github.com/user-attachments/assets/a3b5340d-1d9f-4209-8fdd-718bad7b6d5b" alt="Screenshot 4" width="200"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/b45c178b-5e62-4242-8cc3-e4e833773894" alt="Screenshot 5" width="200"></td>
+<td><img src="https://github.com/user-attachments/assets/dcc1f1bb-9ac9-4324-94a3-9cfa2f3c86ec" alt="Screenshot 6" width="200"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/cb63ea35-26d8-4282-8f88-559b4e5b054c" alt="Screenshot 7" width="200"></td>
+</tr>
+</table>
+
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
@@ -82,6 +99,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 For queries or suggestions, please contact:
-- Email: n210438@rguktn.ac.in
-- GitHub: [Your GitHub Profile](https://github.com/438-venkatesh)
-
+- Email: n210049@rguktn.ac.in
+- GitHub: [My Profile](https://github.com/Vinuthna-Sneha)
