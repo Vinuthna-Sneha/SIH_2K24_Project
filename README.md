@@ -16,9 +16,9 @@ Delhi Bus Management is a Flutter-based mobile application designed to enhance t
 
 ## Technology Stack
 - **Frontend**: Flutter (Dart)
-- **Backend**: To be determined (e.g., Firebase, Node.js, or any REST API backend)
-- **Database**: To be determined (e.g., Firestore, MongoDB, or SQL database)
-
+- **Backend**: Node.js, Flask (for model integration)
+- **Database**: MongoDB, Kafka (for continuous read/write operations)
+  
 ## Installation Guide
 
 ### Prerequisites
@@ -54,6 +54,7 @@ Delhi Bus Management is a Flutter-based mobile application designed to enhance t
    - Launch the app and select the `Driver` role.
    - Receive real-time notifications and location updates.
    - Respond to notifications regarding delays or issues.
+   - Get updates on roadblocks and suggested alternate routes optimized based on the drop-off points of passengers, ensuring maximum satisfaction and efficiency.
 
 ## Screenshots
 <!-- Using a table for better organization and responsiveness -->
